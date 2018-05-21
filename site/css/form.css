@@ -1,0 +1,59 @@
+
+
+.visitors input{
+	width: 170px;
+	color: black;
+}
+.visitors label {
+	width: 170px; 
+	color: black;
+}
+form {
+	color: black;
+}
+select {
+	color: black;
+}
+
+@media (max-width: 1000px) {
+	.visitors input{width: 120px;}
+.visitors label {width: 120px; }
+}  /* End the @media mobile app...*/
+
+
+
+/* CONTACT*/
+input,  textarea {
+	padding: 14px 2px 14px 4px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin: 0px 0px 10px 0px;
+    border: 1px solid #fa7252;
+}
+ textarea { height: 90px;}
+ textarea:focus,  input:focus {border: 1px solid #fa7252;}/* When click on form*/
+input.submit-button {width: 100px;}
+label {
+    float: left;
+    text-align: left;
+    margin-right: 15px;
+    width: 100%;
+    padding-top: 5px;
+}
+input[type="checkbox" i] {
+    margin: 27px 3px 3px 0px;
+    width: 30px;
+    padding-left: 100px;
+}
+keygen, select, select[size="0"], select[size="1"] {border-radius: 0px; border-color: #fa7252; padding: 14px;}
+button{padding: 10px;}
+.required { color:red;}
+
+.select input, label {
+    height: 2rem;
+}
+.visitors {
+	max-width: 350px;
+	display: inline-flex; 
+}
