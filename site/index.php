@@ -16,7 +16,7 @@
 <!-- header -->
 <div>
 
-	<div class="header-bottom">
+	<div class="header-bottom" style="padding:2em 0;">
 		<div class="container">
 			<div class="logo">
 				<a href="index.php"><img src="images/MCSAlogo.png" class="img-responsive logoImg" alt="" /></a>
@@ -31,7 +31,7 @@
 						<li><a href="faq.php">FAQ</a></li>
 						<!-- <li><a href="https://www.facebook.com/groups/MCSA.Magaliesberg/">Blog</a></li> -->
 						<li><a href="contact.php">Contacts</a></li>
-						
+
 				</ul>
 			</div>
 				<div class="clearfix"> </div>
@@ -39,14 +39,14 @@
 
 			</script>
 		<!-- script-for-nav -->
-		</div> 
-	</div> 	
-			
-			
-			
+		</div>
+	</div>
+
+
+
 	<div class="banner">
 		<div class="container">
-		      
+
 		  <div class="carousel-caption" style="">
 			<h1 class="TextShadow" >Mountain  Club of South-Africa</h1>
 			<p class="TextShadow">Magaliesberg Section (Pretoria area)</p>
@@ -56,11 +56,11 @@
 				<a href="permit.php"  class="btn btn-default btn-lg" href="" role="button" style="margin:20px 20px 20px 20px">Permits</a>
 			</p>
 		  </div>
-        
-			
+
+
 	</div>
 	</div>
-	
+
 <!-- header -->
 
 <div class="container">
@@ -71,7 +71,7 @@
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
 					<h4>Organise mountaineering</h4>
-					
+
 				</div>
 				<img src="images/img2.jpg" class="img-responsive" alt="" />
 				<p>The MCSA organise official hiking, canyoning, trad and sport climbing events almost every weekend of the year.  The MCSA Magaliesberg section have a lot of sport and trad climbers that you can connect with.</p>
@@ -82,7 +82,7 @@
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
 					<h4>Access to properties</h4>
-					
+
 				</div>
 				<img src="images/img2.jpg" class="img-responsive" alt="" />
 				<p>Through membership fees and inheritance from club members the club ensures access to various mountain areas in South Africa through property we bought and
@@ -93,7 +93,7 @@
 			</div>
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
-					<h4>Conservation management</h4>					
+					<h4>Conservation management</h4>
 				</div>
 				<img src="images/img5.jpg" class="img-responsive" alt="" />
 				<p>The club have various initiatives and support actions towards protecting the natural beauty and wilderness character of mountains and to promote their effective conservation management;</p>
@@ -102,16 +102,16 @@
 				</div>
 			</div>
 		</div>
-				
-		
+
+
 	<div class="latest-events">
-	
+
 			<div class="clearfix"> </div>
-	
+
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
 					<h4>Safety and Training</h4>
-					
+
 				</div>
 				<img src="images/img3.jpg" class="img-responsive" alt="" />
 				<p>The club regularly presents safety talks at their clubhouse and beginner rock (sport and trad) climbing and hiking meets.  Please check our calendar for the next beginners meet or connect with one of our locals. </p>
@@ -119,12 +119,12 @@
 					<a href="events.php">Read More &gt;&gt;</a>
 				</div>
 			</div>
-	
-			
+
+
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
 					<h4>Search and Rescue</h4>
-					
+
 				</div>
 				<img src="images/img4.jpg" class="img-responsive" alt="" />
 				<p>All sections of the MCSA contribute towards the search and rescue team.  If you think you have the stamina, patience, skills and mental fortitude to search for
@@ -136,7 +136,7 @@
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
 					<h4>Promote the study of mountains</h4>
-					
+
 				</div>
 				<img src="images/img1.jpg" class="img-responsive" alt="" />
 				<p>We have various projects that we are funding. We are currently funding the Richard Watmough Field Guide, the TUT Nature Conservation project and various other projects to connect with
@@ -147,10 +147,10 @@
 			</div>
 
 			<div class="clearfix"> </div>
-		
+
 	</div>
 </div>
-<!-- //news -->	
+<!-- //news -->
 </div>
 
 <!-- footer -->
@@ -158,7 +158,7 @@
 		<div class="container">
 				<div class="clearfix"> </div>
 			<div class="bottom">
-				<p>Copyrights © 2018 Mountain Club of South-Africa Magaliesberg section 
+				<p>Copyrights © 2018 Mountain Club of South-Africa Magaliesberg section
 				<br>Member of the  <a href="http://www.theuiaa.org/"> UIAA - The International Mountaineering and Climbing Federation </a> </p>
 			</div>
 		</div>

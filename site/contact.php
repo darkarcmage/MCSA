@@ -18,7 +18,7 @@ width: 180px;
 padding: 10px;
 }
 .content-block{
-display: flex; 
+display: flex;
 }
 div p {color: white;}
 </style>
@@ -258,6 +258,8 @@ div p {color: white;}
 		</div>
 	</div>
 
+</div>
+</div>
 </div>
 </div>
 
