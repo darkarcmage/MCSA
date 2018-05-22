@@ -6,7 +6,7 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800' rel='stylesheet' type='text/css'>
 <script src="js/jquery.min.js"></script>
@@ -52,7 +52,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<a href="permit.php">Permit &gt;&gt;</a>
 						</div>
 					</div>
-					
+
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">
 							<h4>Mhlabatini</h4>
@@ -89,8 +89,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<a   target="_blank"  href="https://mcsajohannesburg.org/permits-and-huts/">Permit &gt;&gt;</a>
 						</div>
 					</div>
-					
-					
+
+
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">
 							<h4>Chosspile</h4>
@@ -116,11 +116,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 				</div>
-				
+
 				<!--Create a new Row -->
 					<div class="clearfix"></div>
 				<!--NEW ROW -->
-				
+
 				<div class="news">
 					<h3>Properties in other areas</h3>
 					<hr/>
@@ -160,7 +160,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<!-- <a href="#">Read More &gt;&gt;</a> -->
 						</div>
 					</div>
-					
+
 				<!--Create a new Row -->
 					<div class="clearfix"></div>
 				<!--NEW ROW -->
@@ -200,12 +200,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<!-- <a href="#">Read More &gt;&gt;</a> -->
 						</div>
 					</div>
-					
-					
+
+
 				<!--Create a new Row -->
 					<div class="clearfix"></div>
 				<!--NEW ROW -->
-					
+
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">
 							<h4>Hanglip</h4>
@@ -230,44 +230,44 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<!-- <a href="#">Read More &gt;&gt;</a> -->
 						</div>
 					</div>
-					
+
 			<div class="about-bottom">
-			
-			
+
+
 			<script>
 				function myMap() {
 				  var myCenter = new google.maps.LatLng(-25.7479,28.229);
 				  var mapCanvas = document.getElementById("map");
 				  var mapOptions = {center: myCenter, zoom: 7};
 				  var map = new google.maps.Map(mapCanvas, mapOptions);
-				  
-				  var markerBronkies = new google.maps.Marker({position:{lat:-25.880106,lng:28.726038},title:'Bronkies', map:map});
+
+				  var markerBronkies = new google.maps.Marker({position:{lat:-25.880106,lng:28.726038},title:'Bronkies', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/bronkhorstspruit") }); ;
 				  var markerKings = new google.maps.Marker({position:{lat:-26.066459,lng:27.779825}, title:'Kings Kloof', map:map});
 				  var markerStrubens = new google.maps.Marker({position:{lat:-26.128438,lng:27.8242388}, title:'Strubens', map:map});
 				  var markerBoven = new google.maps.Marker({position:{lat:-25.642851,lng:30.330343}, title:'Waterfall Boven', map:map});
-	  
-				  
+
+
 				}
-				
+
 				$( document ).ready(function() {
 					myMap();
 				});
-			
+
 			</script>
-			
+
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAovvfajbSRUmNN87W6eb5mU2ULe5tgBms"></script>
-			
-			
-			
+
+
+
 				<div id="map" style="width:100%;height:500px"></div>
-			
-			
-			
-			
-			
+
+
+
+
+
 				<div class="col-md-12 about-grid">
 					<h6>For more details on the above mountains and crags please check the Climb ZA website</h6>
-					
+
 					<ul style="color:#9A9898;">
 						<li><a href="http://www.climbing.co.za/wiki/Bronkies">Bronkies</a></li>
 						<li><a href="http://www.climbing.co.za/wiki/Strubens_Valley">Struben's Valley</a></li>
@@ -291,14 +291,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul>
 					<li><a href="https://drive.google.com/drive/folders/1Xf472FnjolmmINCvhcsYMaXf2yoijQZT">Download Route Guides</a></li>
 				    </ul>
-				</div>			
+				</div>
 			</div>
 
 					<div class="clearfix"> </div>
 				</div>
 			</div>
 		</div>
-		<!-- //news -->	
+		<!-- //news -->
 		</div>
 	</div>
 <!-- about -->
