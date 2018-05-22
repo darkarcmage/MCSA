@@ -231,6 +231,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 
+					<div class="clearfix"></div>
+					<h3>Rock Climbing Locations</h3>
+					<div class="clearfix"></div>
+
 			<div class="about-bottom">
 
 
@@ -242,7 +246,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				  var map = new google.maps.Map(mapCanvas, mapOptions);
 
 				  var markerBronkies = new google.maps.Marker({position:{lat:-25.880106,lng:28.726038},title:'Bronkies', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/bronkhorstspruit") }); ;
-				  var markerKings = new google.maps.Marker({position:{lat:-26.066459,lng:27.779825}, title:'Kings Kloof', map:map});
+					var markerRadioactive = new google.maps.Marker({position:{lat:-25.808,lng:27.905},title:'Radioactive', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/roodepoort") }); ;
+					var markerChosspile = new google.maps.Marker({position:{lat:-25.7223,lng:27.8496},title:'Chosspile', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northwest-province/area/257776842") }); ;
+					var markerMagalies = new google.maps.Marker({position:{lat:-25.8448,lng:27.8448},title:'Magaliesberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/magaliesberg") }); ;
+					var markerCableway = new google.maps.Marker({position:{lat:-25.72,lng:27.8826503},title:'Cableway Crag', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/johannesburg") }); ;
+
+				  var markerWellington = new google.maps.Marker({position:{lat:-23.947,lng:28.91311},title:'Wellingtons Dome', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/wellingtons-dome") }); ;
+					var markerBlouberg = new google.maps.Marker({position:{lat:-23.09311,lng:28.987},title:'Blouberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/blouberg") }); ;
+					var markerHanglip = new google.maps.Marker({position:{lat:-24.20239,lng:28.6477},title:'Hanglip', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/1751183877") }); ;
+					var markerKransberg = new google.maps.Marker({position:{lat:-24.4816094,lng:27.62429},title:'Kransberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/krantzberg") }); ;
+					var markerNgopane = new google.maps.Marker({position:{lat:-23.9319533,lng:29.125465},title:'Ngopane', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257095266") }); ;
+					var markerThabaphaswa = new google.maps.Marker({position:{lat:-24.0583268,lng:29.0442487},title:'Thabaphaswa', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257096604") }); ;
+
+
+					var markerSwinburne = new google.maps.Marker({position:{lat:-28.3887979,lng:29.27997},title:'Swinburne', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/swinburne") }); ;
+					var markerEverest = new google.maps.Marker({position:{lat:-28.157146,lng:29.1919183},title:'Eagle Mountain', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/mt-everest-nature-reserve") }); ;
+					var markerLeliehoek = new google.maps.Marker({position:{lat:-29.1847618,lng:27.4576324},title:'Lelie Hoek', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257096604") }); ;
+
+
+					var markerKings = new google.maps.Marker({position:{lat:-26.066459,lng:27.779825}, title:'Kings Kloof', map:map});
 				  var markerStrubens = new google.maps.Marker({position:{lat:-26.128438,lng:27.8242388}, title:'Strubens', map:map});
 				  var markerBoven = new google.maps.Marker({position:{lat:-25.642851,lng:30.330343}, title:'Waterfall Boven', map:map});
 
@@ -257,41 +279,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAovvfajbSRUmNN87W6eb5mU2ULe5tgBms"></script>
 
-
-
-				<div id="map" style="width:100%;height:500px"></div>
-
-
-
-
-
-				<div class="col-md-12 about-grid">
-					<h6>For more details on the above mountains and crags please check the Climb ZA website</h6>
-
-					<ul style="color:#9A9898;">
-						<li><a href="http://www.climbing.co.za/wiki/Bronkies">Bronkies</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Strubens_Valley">Struben's Valley</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/King%27s_Kloof">King's Kloof</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Chosspile">Chosspile</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Castle_Gorge_(trad)">Castle Gorge Trad</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Mhlabatini_(trad)">Mhlabatine</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Dome_(trad)">Dome Trad</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Grootkloof_(trad)">Grootkloof</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Cederberg_Kloof_(trad)">Cederberg kloof</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Upper_Tonquani_(trad)">Upper Tonquani</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Lower_Tonquani_(trad)">Lower Tonquani</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Boulder_Kloof_(trad)">Boulder kloof</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Fern_Kloof_(sport_and_trad)">Fern kloof</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Hamerkop_(trad)">Hamerkop</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Kranskloof_(trad)">Kranskloof</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Remhoogte_(trad)">Remhoogte</a></li>
-						<li><a href="http://www.climbing.co.za/wiki/Eureka_Dome_(trad)">Eureka Dome Trad</a></li>
-					</ul>
-					<h6>Download routeguides</h6>
-					<ul>
-					<li><a href="https://drive.google.com/drive/folders/1Xf472FnjolmmINCvhcsYMaXf2yoijQZT">Download Route Guides</a></li>
-				    </ul>
-				</div>
+					<div id="map" style="width:100%;height:500px"></div>
 			</div>
 
 					<div class="clearfix"> </div>

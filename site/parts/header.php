@@ -4,8 +4,8 @@
 				<a href="index.php"><img src="images/MCSAlogo.png" class="img-responsive logoImg" alt="" /></a>
 			</div>
 			<div class="head-nav">
-				<span class="menu"> </span>
-					<ul>
+				<span class="menu" onclick="toggleMobileMenu()"> </span>
+					<ul id="menuMobile">
 						<li class="titleoption <?php if (isset($index)    ) { echo "active"; } ?>"><a href="index.php">Home</a></li>
 						<li class="titleoption <?php if (isset($about)    ) { echo "active"; } ?>" ><a href="about.php">About</a></li>
 						<li class="titleoption <?php if (isset($news)    ) { echo "active"; } ?>" ><a href="news.php">News</a></li>
@@ -28,3 +28,21 @@
 		<div class="container">
 	</div>
 	</div>
+
+<script>
+
+	var menuActive = false;
+	function toggleMobileMenu(){
+		if(menuActive==true)
+			$("#menuMobile").css("display","none");
+		else $("#menuMobile").css("display","block");
+
+		toggleMenuState();
+	}
+
+	function toggleMenuState(){
+		if(menuActive == true)
+			menuActive = false;
+		else menuActive = true;
+	}
+</script>

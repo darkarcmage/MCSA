@@ -4,6 +4,9 @@
 <title>MCSA Magaliesberg section</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+
+<link href="fontawesome/css/fontawesome-all.min.css" rel="stylesheet" type="text/css" media="all" />
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Hiking, climbing, sport climbing, trad climbing, swimming, kloofing, gorging" />
@@ -22,8 +25,8 @@
 				<a href="index.php"><img src="images/MCSAlogo.png" class="img-responsive logoImg" alt="" /></a>
 			</div>
 			<div class="head-nav">
-				<span class="menu"> </span>
-					<ul>
+				<span class="menu" onclick="toggleMobileMenu()"> </span>
+					<ul id="menuMobile">
 						<li class="active"><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
 						<li><a href="news.php">News</a></li>
@@ -35,13 +38,30 @@
 				</ul>
 			</div>
 				<div class="clearfix"> </div>
+
 				<!-- script-for-nav -->
 
-			</script>
+
 		<!-- script-for-nav -->
 		</div>
 	</div>
+	<script>
 
+		var menuActive = false;
+		function toggleMobileMenu(){
+			if(menuActive==true)
+				$("#menuMobile").css("display","none");
+			else $("#menuMobile").css("display","block");
+
+			toggleMenuState();
+		}
+
+		function toggleMenuState(){
+			if(menuActive == true)
+				menuActive = false;
+			else menuActive = true;
+		}
+	</script>
 
 
 	<div class="banner">

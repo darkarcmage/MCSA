@@ -1546,21 +1546,21 @@ a.go {
 .head-nav ul{
 	position: absolute;
 	margin: 0;
-	padding: 2% 0;
+	padding: 0 0;
 	z-index: 999;
-	width: 92%;
-	display: none;
+	width: 100%;
 	text-align: center;
-	background:rgba(25, 57, 82, 0.67);
-	left:2em;
-	top:5.5em;
+	display: none;
+	background:rgba(25, 57, 82, 0.9);
+	left:0em;
+	top:5.0em;
 }
 .head-nav span.menu {
 	display: block;
 	background: none;
 	position: absolute;
 	top: 28px;
-	right: 26em;
+	left: 1em;
 }
 .head-nav span.menu:before{
 	content:url(../images/menu.png);
@@ -1752,7 +1752,7 @@ a.go {
 }
 .head-nav span.menu {
 	top: 30px;
-	right: 22em;
+	left: 1em;
 }
 .about h4 {
 	font-size: 1.5em;
@@ -1867,12 +1867,12 @@ a.go {
 	padding: 0.5em 0;
 }
 .head-nav ul {
-	left: 1em;
+	left: 0em;
 	top: 4.5em;
 }
 .head-nav span.menu {
 	top: 24px;
-	right: 16em;
+	left: 1em;
 }
 .about h4 {
 	font-size: 1.4em;
@@ -2032,7 +2032,7 @@ a.go {
 }
 .head-nav span.menu {
 	top: 26px;
-	right: 1em;
+	left: 1em;
 }
 .header-right {
 	width: 60%;
