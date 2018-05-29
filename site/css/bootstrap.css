@@ -5554,7 +5554,7 @@ button.close {
   background-color: url(../images/pagenate.png) no-repeat 0px 0px;
 }
 .carousel-caption {
-  position: absolute;
+  position: relative;
   right: 15%;
   bottom: 20px;
   left: 15%;

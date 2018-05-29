@@ -1,17 +1,8 @@
 ﻿<!DOCTYPE HTML>
 <html>
 <head>
-<title>Club property</title>
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800' rel='stylesheet' type='text/css'>
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
-<style> .news ul {color: white}  </style>
+	<title>Properties</title>
+	<?php include "parts/head.php"; ?>
 </head>
 <body>
 <!-- header -->
@@ -245,28 +236,65 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				  var mapOptions = {center: myCenter, zoom: 7};
 				  var map = new google.maps.Map(mapCanvas, mapOptions);
 
-				  var markerBronkies = new google.maps.Marker({position:{lat:-25.880106,lng:28.726038},title:'Bronkies', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/bronkhorstspruit") }); ;
-					var markerRadioactive = new google.maps.Marker({position:{lat:-25.808,lng:27.905},title:'Radioactive', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/roodepoort") }); ;
-					var markerChosspile = new google.maps.Marker({position:{lat:-25.7223,lng:27.8496},title:'Chosspile', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northwest-province/area/257776842") }); ;
-					var markerMagalies = new google.maps.Marker({position:{lat:-25.8448,lng:27.8448},title:'Magaliesberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/magaliesberg") }); ;
-					var markerCableway = new google.maps.Marker({position:{lat:-25.72,lng:27.8826503},title:'Cableway Crag', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/johannesburg") }); ;
 
-				  var markerWellington = new google.maps.Marker({position:{lat:-23.947,lng:28.91311},title:'Wellingtons Dome', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/wellingtons-dome") }); ;
-					var markerBlouberg = new google.maps.Marker({position:{lat:-23.09311,lng:28.987},title:'Blouberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/blouberg") }); ;
-					var markerHanglip = new google.maps.Marker({position:{lat:-24.20239,lng:28.6477},title:'Hanglip', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/1751183877") }); ;
-					var markerKransberg = new google.maps.Marker({position:{lat:-24.4816094,lng:27.62429},title:'Kransberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/krantzberg") }); ;
-					var markerNgopane = new google.maps.Marker({position:{lat:-23.9319533,lng:29.125465},title:'Ngopane', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257095266") }); ;
-					var markerThabaphaswa = new google.maps.Marker({position:{lat:-24.0583268,lng:29.0442487},title:'Thabaphaswa', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257096604") }); ;
+					//By Provinces
 
 
-					var markerSwinburne = new google.maps.Marker({position:{lat:-28.3887979,lng:29.27997},title:'Swinburne', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/swinburne") }); ;
-					var markerEverest = new google.maps.Marker({position:{lat:-28.157146,lng:29.1919183},title:'Eagle Mountain', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/mt-everest-nature-reserve") }); ;
-					var markerLeliehoek = new google.maps.Marker({position:{lat:-29.1847618,lng:27.4576324},title:'Lelie Hoek', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257096604") }); ;
 
 
-					var markerKings = new google.maps.Marker({position:{lat:-26.066459,lng:27.779825}, title:'Kings Kloof', map:map});
-				  var markerStrubens = new google.maps.Marker({position:{lat:-26.128438,lng:27.8242388}, title:'Strubens', map:map});
-				  var markerBoven = new google.maps.Marker({position:{lat:-25.642851,lng:30.330343}, title:'Waterfall Boven', map:map});
+					//Northen Cape
+					//Western Cape
+					var markerCederberg = new google.maps.Marker({position:{lat:-32.4,lng:19.2},title:'Cederberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/cederberg") });
+					var markerHellFire = new google.maps.Marker({position:{lat:-33.7,lng:19.1},title:'HellFire', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/hellfire") });
+					var markerHell = new google.maps.Marker({position:{lat:-32.715,lng:28.329},title:'Morgans Bay', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/morgans-bay") });
+					var markerQuarry = new google.maps.Marker({position:{lat:-33.942,lng:18.4},title:'Higgovale Quarry', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/higgovale-quarry") });
+					var markerKleinmond = new google.maps.Marker({position:{lat:-34.33,lng:18.99},title:'Kleinmond', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/kleinmond") });
+					var markerMontagu = new google.maps.Marker({position:{lat:-33.8,lng:20.1},title:'Montagu', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/montagu") });
+					var markerOudtshoorn = new google.maps.Marker({position:{lat:-33.3,lng:22.1},title:'Oudtshoorn', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/oudtshoorn") });
+					var markerPaarl = new google.maps.Marker({position:{lat:-33.7,lng:18.9},title:'Paarl', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/paarl-rock") });
+					var markerPiersCave = new google.maps.Marker({position:{lat:-34.1,lng:18.4},title:'Piers Bay', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/piers-cave") });
+					var markerSilvermine = new google.maps.Marker({position:{lat:-34.1,lng:18.4},title:'Silvermine', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/silvermine") });
+					var markerTableMountain = new google.maps.Marker({position:{lat:-33.94833,lng:18.4007576},title:'Table Mountain', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/table-mountain") });
+					var markerMorgansBay = new google.maps.Marker({position:{lat:-32.715,lng:28.329},title:'Morgans Bay', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/morgans-bay") });
+					var markerMorgansBay = new google.maps.Marker({position:{lat:-32.715,lng:28.329},title:'Morgans Bay', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/morgans-bay") });
+
+					//Eastern Cape
+					var markerMorgansBay = new google.maps.Marker({position:{lat:-32.715,lng:28.329},title:'Morgans Bay', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/morgans-bay") });
+					var markerHogsback = new google.maps.Marker({position:{lat:-32.616134,lng:26.991098},title:'Hogsback', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/hogsback") });
+
+
+					//Kwa-zulu Natal
+
+					//Gauteng
+				  var markerBronkies = new google.maps.Marker({position:{lat:-25.880106,lng:28.726038},title:'Bronkies', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/bronkhorstspruit") });
+					var markerKings = new google.maps.Marker({position:{lat:-26.066459,lng:27.779825}, title:'Kings Kloof', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/gauteng/area/257852376") });
+					var markerStrubens = new google.maps.Marker({position:{lat:-26.128438,lng:27.8242388}, title:'Strubens', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/gauteng/area/14286805") });
+
+					//North West
+					var markerRadioactive = new google.maps.Marker({position:{lat:-25.808,lng:27.905},title:'Radioactive', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/roodepoort") });
+					var markerChosspile = new google.maps.Marker({position:{lat:-25.7223,lng:27.8496},title:'Chosspile', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northwest-province/area/257776842") });
+					var markerMagalies = new google.maps.Marker({position:{lat:-25.8448,lng:27.8448},title:'Magaliesberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/magaliesberg") });
+					var markerCableway = new google.maps.Marker({position:{lat:-25.72,lng:27.8826503},title:'Cableway Crag', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/johannesburg") });
+					//Limpopo
+				  var markerWellington = new google.maps.Marker({position:{lat:-23.947,lng:28.91311},title:'Wellingtons Dome', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/wellingtons-dome") });
+					var markerBlouberg = new google.maps.Marker({position:{lat:-23.09311,lng:28.987},title:'Blouberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/blouberg") });
+					var markerHanglip = new google.maps.Marker({position:{lat:-24.20239,lng:28.6477},title:'Hanglip', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/1751183877") });
+					var markerKransberg = new google.maps.Marker({position:{lat:-24.4816094,lng:27.62429},title:'Kransberg', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/krantzberg") });
+					var markerNgopane = new google.maps.Marker({position:{lat:-23.9319533,lng:29.125465},title:'Ngopane', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257095266") });
+					var markerThabaphaswa = new google.maps.Marker({position:{lat:-24.0583268,lng:29.0442487},title:'Thabaphaswa', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257096604") });
+					//Free-state
+					var markerSwinburne = new google.maps.Marker({position:{lat:-28.3887979,lng:29.27997},title:'Swinburne', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/swinburne") });
+					var markerEverest = new google.maps.Marker({position:{lat:-28.157146,lng:29.1919183},title:'Eagle Mountain', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/mt-everest-nature-reserve") });
+					var markerLeliehoek = new google.maps.Marker({position:{lat:-29.1847618,lng:27.4576324},title:'Lelie Hoek', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/northern-province/area/257096604") });
+
+					//Mpumalanga
+				  var markerBoven = new google.maps.Marker({position:{lat:-25.642851,lng:30.330343}, title:'Waterfall Boven', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/waterval-boven") });
+					var markerTheHell = new google.maps.Marker({position:{lat:-25.5,lng:29.2}, title:'The Hell', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/the-hell") });
+					var markerSabie = new google.maps.Marker({position:{lat:-25.08,lng:30.7}, title:'Sabie', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/sabie-gorge") });
+					var markerManoutsa = new google.maps.Marker({position:{lat:-24.5,lng:30.6}, title:'Manoutsa', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/manoutsa-strijdom-tunnel") });
+					var markerBatwaValley = new google.maps.Marker({position:{lat:-26.2,lng:29.9}, title:'Batwa Valley', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/mpumalanga/area/257254344") });
+					var markerGoldRush = new google.maps.Marker({position:{lat:-24.73,lng:30.85}, title:'GoldRush', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/mpumalanga/area/297318606") });
+					var markerCrocRiverCanyon = new google.maps.Marker({position:{lat:-25.4,lng:30.97}, title:'Croc River Canyon', map:map}).addListener('click', function() {window.open("https://www.thecrag.com/climbing/south-africa/mpumalanga/area/297319659") });
 
 
 				}

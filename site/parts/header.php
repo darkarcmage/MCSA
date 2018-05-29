@@ -1,4 +1,4 @@
-﻿	<div class="header-bottom">
+﻿	<div class="header-bottom" style="margin-top: -20px;">
 		<div class="container">
 			<div class="logo">
 				<a href="index.php"><img src="images/MCSAlogo.png" class="img-responsive logoImg" alt="" /></a>
