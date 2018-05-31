@@ -84,12 +84,12 @@
 					<h4>Organise mountaineering</h4>
 
 				</div>
-				<a href="contact.php">
+				<a href="contact.php#findGuide">
 				<img src="images/organiseMountaineering.jpg" class="img-responsive bannerImage" alt="" />
 			</a>
 				<p>The MCSA organise official hiking, canyoning, trad and sport climbing events almost every weekend of the year.  The MCSA Magaliesberg section have a lot of sport and trad climbers that you can connect with.</p>
 				<div class="read-more blue">
-					<a href="contact.php">Find a Guide &gt;&gt;</a>
+					<a href="contact.php#findGuide">Find a Guide &gt;&gt;</a>
 				</div>
 			</div>
 			<div class="col-md-4 news-grid">
@@ -146,13 +146,15 @@
 					<a href="sr.php">Read More &gt;&gt;</a>
 				</div>
 			</div>
+
+
+
 			<div class="col-md-4 news-grid">
 				<div class="news-grid-text">
 					<h4>Promote the study of mountains</h4>
-
 				</div>
 				<img src="images/img1.jpg" class="img-responsive bannerImage" alt="" />
-				<p>We have various projects that we are funding. We are currently funding the Richard Watmough Field Guide, the TUT Nature Conservation project and various other projects to connect with
+				<p style="font-size:15px !important">We have various projects that we are funding. We are currently funding the Richard Watmough Field Guide, the TUT Nature Conservation project and various other projects to connect with
 				previously disadvantaged children.</p>
 				<div class="read-more blue">
 					<!-- <a href="#">Read More &gt;&gt;</a> -->

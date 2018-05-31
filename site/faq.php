@@ -8,7 +8,7 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800' rel='stylesheet' type='text/css'>
 <script src="js/jquery.min.js"></script>
@@ -44,17 +44,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- about -->
 		<div class="main">
 		<div class="container contentMain">
-		<h4>Frequently asked questions</h4>
-			<br/>
+      <div class="about">
+		      <h4>Frequently asked questions</h4>
+        </div>
+			
 			<div class="col-md-12 about-grid">
-				
+
 			<p>Below are a few frequently asked questions about the Mountain Club of South Africa, Magaliesberg section.</p>
-			<p>Click on the questions to reveal the answer</p>	
-				
+			<p>Click on the questions to reveal the answer</p>
+
 				<h4 class="faqQ" id="q001">  How can I become a member of the MCSA Magaliesberg section?</h4>
 					  <div class="faqA"id="a001">
-					  <p> You have to attend 3 official Magaliesberg meets. Please check our <a href="events.php">calendar</a> for official meets. Tuesday club night evenings are not considered official meets. 
-					  You may list climbing at LC de Villiers with other Magaliesberg club members as an official meet. You will need to get two members to vouch for you and sign your <a href="join.php"> application form</a>. 
+					  <p> You have to attend 3 official Magaliesberg meets. Please check our <a href="events.php">calendar</a> for official meets. Tuesday club night evenings are not considered official meets.
+					  You may list climbing at LC de Villiers with other Magaliesberg club members as an official meet. You will need to get two members to vouch for you and sign your <a href="join.php"> application form</a>.
 					  </p>
 					  </div>
 
@@ -63,11 +65,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  <div class="faqA" id="a011">
 					  <p> The MCSA owns and have access to many environmentally sensitive and potentially dangerous properties and areas. The two required signatories, is our attempt to assess your attitude towards nature and eliminate negligent individuals.</p>
 					  </div>
-					
+
 					  <h4  class="faqQ" id="q002">What are the costs and benefits of being a member?</h4>
 					  <div class="faqA" id="a002">
-					  <p> <a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Members fees</a> . 
-					  As a member you do not only get access to the property owned by the section you joined, but to all properties owned by the entire MCSA entity. You don’t strictly have to be a member for this but if you join and participate in our activities you have access to experienced members with treasure troves of knowledge to be mined. 
+					  <p> <a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Members fees</a> .
+					  As a member you do not only get access to the property owned by the section you joined, but to all properties owned by the entire MCSA entity. You donï¿½t strictly have to be a member for this but if you join and participate in our activities you have access to experienced members with treasure troves of knowledge to be mined.
 					Many outdoor shops and climbing gyms offer discounts to MCSA members. You have to be able to show your MCSA membership card.
 					</p>
 					  </div>
@@ -77,7 +79,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  <p> By joining the Magalies Section you effectively become part owner of all the properties and as such have share of the responsibility for the maintenance and safety thereof.  You have a choice to either participant in patrolling the properties or weeding the properties. While on the property we ask that you behave as an owner. I.e.: if you see a stranger, ask them if they are members or have a permit, else are trespassing, etc. <br><br>
 						Patrolling: When on the properties, and not only when patrolling, we require you to keep an eye out for trespassers and problems such as fencing or fires, etc. <br><br>
 						Your name will be added to a rotating patrolling roster that would require you to spend a weekend, once every 12-18 months, on a property. You may choose the property you want to patrol and may make an official club meet thereof. <br><br>
-						Weeding: You are required to volunteer for weeding and work meets once a year. Conservation forms a major part of the MCSA’s responsibility towards the environment. Weeding forms a very important part of environmental management.
+						Weeding: You are required to volunteer for weeding and work meets once a year. Conservation forms a major part of the MCSAï¿½s responsibility towards the environment. Weeding forms a very important part of environmental management.
 						</p>
 					  </div>
 
@@ -94,13 +96,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 					  <h4  class="faqQ" id="q006">What happens if I do not pay my membership fees?</h4>
 					  <div class="faqA" id="a006">
-					  <p> You will not receive a sticker which means you may not visit any of the MCSA property without a permit. If you do not pay your membership fees by November your membership with the club will be cancelled. 
+					  <p> You will not receive a sticker which means you may not visit any of the MCSA property without a permit. If you do not pay your membership fees by November your membership with the club will be cancelled.
 					  If you would like to re-apply for membership you will have to go through the new member applicatin process and pay the application fee again.</p>
 					  </div>
 
 					  <h4  class="faqQ" id="q007">Can I move from another MCSA section to the Magaliesberg section?</h4>
 					  <div class="faqA" id="a007">
-					  <p>If you live in Gauteng or close to Gauteng you may become a member of either the Magaliesberg section or the Johannesburg section. 
+					  <p>If you live in Gauteng or close to Gauteng you may become a member of either the Magaliesberg section or the Johannesburg section.
 					  You will have to forward an email from the admin/treasurer/chair from the other section which you are a member of to confirm that your fees are paid up and that you are a member in good standing.
 					  If you did not pay your annual fees at the other section or you cannot get a letter of good standing you have to follow the new member application process.
 					  </p>
@@ -116,7 +118,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  <div class="faqA" id="a009">
 					  <p> Guest fees are paid by non-members on official mountain club events. </p>
 					  </div>
-					  
+
 					<h4  class="faqQ" id="q010">How do I pay the membership fees? What is the club bank number?</h4>
 					  <div class="faqA" id="a010">
 					  <p>Please note the different bank accounts for different payments. <!-- NB. We don't pay tax on membership fees but do pay tax on permit fees except for the Dome permit fees. Thus if the treasurer cannot distinguishe between the two leads to extra tax payments. -->
@@ -131,24 +133,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  <br> Account number 2697033815
 					  <br> Payment Reference example: <b> "surname_Permit_Dome"  </b>.
 					    </p>
-					    
+
 					     <p> We need you to clearly indicate in your bank reference field what you are paying for. The club have several different income streams. Some of these income streams are taxable and others are not.
 					If your reference is not clear we might allocate your payment to the wrong account leading to big tax payments to SARS.     </p>
 					</div>
-				
+
 					  <h4  class="faqQ" id="q012">Does the MCSA provide any equipment for events?</h4>
 					  <div class="faqA" id="a012">
 					  <p> The MCSA owns some rock climbing equipment. If the event is an official event (advertised in the newsletter with enough lead time), the meet leader is free to use (collect and return) the equipment for the event. The MCSA does not own any other equipment for events.</p>
 					  </div>
-					
+
 					 <h4  class="faqQ" id="q013">Are children welcome at events?</h4>
 					  <div class="faqA" id="a013">
 					  <p> Please check with the meet leader. Children are always welcome on condition that the event is suitable and safe for them.
 					PLEASE TAKE NOTE that the safety of the children remains the responsibility of the parent or guardian.
 					</p>
 					  </div>
-				
-			</div>			
+
+			</div>
 		</div>
 		</div>
 <!-- portfolio-section  -->

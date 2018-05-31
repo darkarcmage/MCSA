@@ -13,11 +13,11 @@
 		<div class="container">
 		<!-- news -->
 		<div class="news">
-			<h3>PROPERTIES AND LOCATIONS</h3><br/>
+			<h3>Properties and Locations</h3><br/>
 			<p  style="color: white" >The MCSA manages several properties, including their own. Below are some of the properties that the club members frequently visit.
 				<br> Please note on the first weekend of every month properties are reserved exclusively for MCSA members of any section.</p>
 			<br/>
-			<h3> Properties in the Magaliesberg area</h3>
+			<h4> Properties in the Magaliesberg area</h4>
 				<div class="news-grids">
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">

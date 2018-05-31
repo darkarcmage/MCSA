@@ -20,7 +20,7 @@ padding: 10px;
 .content-block{
 display: flex;
 }
-div p {color: white;}
+
 </style>
 </head>
 <body>
@@ -30,25 +30,28 @@ div p {color: white;}
 <!-- contact -->
 <div class="contact-data">
 			<div class="container">
-		       <h2>Get In Touch</h2>
-		       <p>083 845 1573</p>
-				 	 	<p><span><a href="mailto:admin@mag.mcsa.org.za">admin@mag.mcsa.org.za</a></span></p>
-				   		<p>Follow on: <span><a href="https://www.facebook.com/groups/MCSA.Magaliesberg/">Facebook</a></span></p>
-
+				<div class="about">
+		       <h4>Get In Touch</h4>
+				 </div>
+		       <p>Call: 083 845 1573</p>
+				 	 <p>Email: <a href="mailto:admin@mag.mcsa.org.za">admin@mag.mcsa.org.za</a></p>
+				   <p>Follow on: <span><a href="https://www.facebook.com/groups/MCSA.Magaliesberg/">Facebook</a></span></p>
+					 <br/>
 				  <div class="content_bottom">
-				 	<div class="company_address">
+				 	<div class="company_address" style="width:100%">
 				     	<h2>Location</h2>
-						    	<p>Tennis Club, Rietondale Park,</p>
-						   		<p>corner of Soutpansberg Road & van der Merwe Road,</p>
+									<p>Rietondale Park</p>
+						    	<p>Van Der Merwe St & Soutpansberg Road</p>
+						   		<p>Rietondale</p>
 						   		<p>Pretoria</p>
-
+									<p>0084</p>
+									<a href="#findGuide"></a>
+									<a href="https://www.google.com/maps/place/-25.7325899,28.226571" target="_blank">View on Google Maps</a>
 				     </div>
 
 				      <div class="clearfix"></div>
+							<br/>
 				      <h2>Committee members</h2>
-
-
-
 		<div class="news-grids">
 
 			<div class="col-sm-2 news-grid">
@@ -57,7 +60,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/petrus.jpeg"></img>
 					<p>Petrus Nel <br>
-					<a href="mailto:chair@mag.mcsa.org.za">chair@mag.mcsa.org.za</a></p>
+					<a href="mailto:chair@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -66,7 +69,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/otti.jpeg"></img>
 				<p>Otti Nesser <br>
-				<a href="mailto:vice-chair@mag.mcsa.org.za">vice-chair@mag.mcsa.org.za</a></p>
+				<a href="mailto:vice-chair@mag.mcsa.org.za">Send E-mail</a></p>
 
 			</div>
 			<div class="col-sm-2 news-grid">
@@ -75,7 +78,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/eddie.jpeg"></img>
 					<p>Eddie Harvey <br>
-					<a href="mailto:access@mag.mcsa.org.za">access@mag.mcsa.org.za</a></p>
+					<a href="mailto:access@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -84,7 +87,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/robyn.jpg"></img>
 					<p>Robyn Arnold <br>
-					<a href="mailto:secretary@mag.mcsa.org.za">secretary@mag.mcsa.org.za</a></p>
+					<a href="mailto:secretary@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -93,7 +96,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/desi.jpeg"></img>
 					<p>Desiree Dall <br>
-					<a href="mailto:treasurer@mag.mcsa.org.za">treasurer@mag.mcsa.org.za</a></p>
+					<a href="mailto:treasurer@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 
@@ -103,7 +106,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/andrew.jpeg"></img>
 					<p>Andrew Louw <br>
-					<a href="mailto:climbing@mag.mcsa.org.za">climbing@mag.mcsa.org.za</a></p>
+					<a href="mailto:climbing@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 
@@ -116,7 +119,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/rupert.jpeg"></img>
 					<p>Rupert Stander<br>
-					<a href="mailto:rescue@mag.mcsa.org.za">rescue@mag.mcsa.org.za</a></p>
+					<a href="mailto:rescue@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -125,7 +128,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/ettiene.jpeg"></img>
 					<p>Ettiene Step <br>
-					<a href="mailto:training@mag.mcsa.org.za">training@mag.mcsa.org.za</a></p>
+					<a href="mailto:training@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -134,7 +137,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/karen.jpeg"></img>
 					<p>Karen Hauptfleisch <br>
-					<a href="mailto:youth@mag.mcsa.org.za">youth@mag.mcsa.org.za</a></p>
+					<a href="mailto:youth@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -143,7 +146,7 @@ div p {color: white;}
 				</div>
 				<img  src="images/committee/kendal.jpeg"></img>
 					<p>Kendal Smith <br>
-					<a href="mailto:news@mag.mcsa.org.za">news@mag.mcsa.org.za</a></p>
+					<a href="mailto:news@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 			<div class="col-sm-2 news-grid">
@@ -152,7 +155,7 @@ div p {color: white;}
 				</div>
 					<img  src="images/committee/corne.jpeg"></img>
 					<p>Corne Mare <br>
-					<a href="mailto:conservation@mag.mcsa.org.za">conservation@mag.mcsa.org.za</a></p>
+					<a href="mailto:conservation@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 
@@ -162,7 +165,7 @@ div p {color: white;}
 				</div>
 					<img  src="images/committee/odette.jpeg"></img>
 					<p>Odette Lippold<br>
-					<a href="mailto:meets@mag.mcsa.org.za">meets@mag.mcsa.org.za</a></p>
+					<a href="mailto:meets@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 						<!-- CREATE NEW ROW-->
 			<div class="clearfix"></div>
@@ -174,17 +177,12 @@ div p {color: white;}
 				</div>
 					<img  src="images/committee/frik.jpeg"></img>
 					<p>Frik Stegmann<br>
-					<a href="mailto:hiking@mag.mcsa.org.za">hiking@mag.mcsa.org.za</a></p>
+					<a href="mailto:hiking@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 		</div>
 
-
-
-
-
-
-
+<a name="findGuide"></a>
 <div class="contact-data">
 <div class="clearfix"></div>
 <h2>Connect with a local guide</h2>

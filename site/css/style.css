@@ -3,11 +3,16 @@
 		/*How to use
 			var(--background-color);
 		*/
-		--subheading-color:black;/*#0070C6;*/
+		--subheading-color:#f98c33;/*#0070C6;*/
 		--text-color:#FFFFFF;
 		--heading-color:#fbb034;
+		--main-color:#8c8c8c;
 
 
+}
+
+p{
+	color:var(--main-color);
 }
 
 .TextShadow{
@@ -15,7 +20,12 @@
 
 }
 
-img + p {
+a {
+	color:#42d9f4;
+
+}
+
+img + p > a{
 	word-wrap: break-word;
 	font-size: .9em !important;
 }
@@ -73,7 +83,7 @@ body a{
 }
 
 h3,h4,h5,h6{
-	color:var(--text-color);
+	color:var(--heading-color);
 }
 
 .contentMain{
@@ -751,7 +761,7 @@ i.rss:hover{
 	margin: 0;
 	color:var(--heading-color);;
 	font-weight: 600;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 .news-grid-text {
 	margin-bottom: 1em;
@@ -822,7 +832,7 @@ i.rss:hover{
 	margin-top:-110px;
 }
 .main {
-	padding: 5em 0 5em;
+	padding: 2em 0 5em;
 }
 .main h2 {
 	font-size: 2.5em;
@@ -835,7 +845,7 @@ i.rss:hover{
 	padding: 0.5em 0;
 }
 .about-bottom {
-	padding: 3em 0 0;
+	padding: 1em 0 0;
 }
 .about h4{
 	margin: 0 0 1em;

@@ -6,7 +6,7 @@
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800' rel='stylesheet' type='text/css'>
 <script src="js/jquery.min.js"></script>
@@ -23,32 +23,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- news -->
 		<div class="news">
 			<h3>Volunteers needed</h3>
-			<p style="color: white"> The Magaliesberg mountains is a recognised World Biosphere Reserve. 
+			<p style="color: white"> The Magaliesberg mountains is a recognised World Biosphere Reserve.
 
-			<br> To maintain the Biosphere status the MCSA are in need of volunteers who are willing to assist with the removal of weeds as well as the maintenance of hiking trails and paths on the properties. 
-			Please refer to our <a href="events.html">calendar</a> for when the next 
-				work meet is and come and help us. 
+			<br> To maintain the Biosphere status the MCSA are in need of volunteers who are willing to assist with the removal of weeds as well as the maintenance of hiking trails and paths on the properties.
+			Please refer to our <a href="events.php">calendar</a> for when the next
+				work meet is and come and help us.
 				<br>If you see any of the below plants in and around Gauteng and the Magaliesberg mountains please remove it.</p>
 				<div class="news-grids">
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">
-							<h4>Crofton</h4>  
+							<h4>Crofton</h4>
 							<!-- <span>Blue</span>-->
 						</div>
 						<img src="imagesWeed/img1.JPG" style="height: 235px;" class="img-responsive" alt="" />
 					</div>
-							
+
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">
-							<h4>Lantana</h4> 
+							<h4>Lantana</h4>
 						</div>
 						<img src="imagesWeed/img4.JPG" style="height: 235px;"class="img-responsive" alt="" />
 
 					</div>
-					
+
 					<div class="col-md-4 news-grid">
 						<div class="news-grid-text">
-							<h4>Pompom</h4> 
+							<h4>Pompom</h4>
 						</div>
 						<img src="imagesWeed/img5.JPG" style="height: 235px;"class="img-responsive" alt="" />
 					</div>
@@ -64,19 +64,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-4 news-grid">
 						<img src="imagesCons/img1.JPG" style="height: 250px;"class="img-responsive" alt="" />
 					</div>
-				
+
 					<div class="col-md-4 news-grid">
 						<img src="imagesCons/img2.JPG" style="height: 250px;"class="img-responsive" alt="" />
 					</div>
-				
+
 					<div class="col-md-4 news-grid">
 						<img src="imagesCons/img3.JPG" style="height: 250px;"class="img-responsive" alt="" />
 					</div>
-				
+
 					<div class="col-md-4 news-grid">
 						<img src="imagesCons/img4.JPG" style="height: 250px;"class="img-responsive" alt="" />
 					</div>
-				
+
 					<div class="col-md-4 news-grid">
 						<img src="imagesCons/img5.JPG" style="height: 250px;"class="img-responsive" alt="" />
 					</div>
@@ -140,7 +140,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 		</div>
-		<!-- //news -->	
+		<!-- //news -->
 		</div>
 	</div>
 <!-- about -->
