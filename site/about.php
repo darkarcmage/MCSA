@@ -51,33 +51,28 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="view effect">
 					<img src="images/magalies.jpg" alt="image" class="img-responsive zoom-img">
 				</div>
+				<h6>Other MCSA sections</h6>
+				
+				<ul style="color:#9A9898;">
+					<li><a href="https://www.facebook.com/MCSASAR/">MCSA Search and Rescue</a></li>
+					<li><a href="https://mcsajohannesburg.org/">MCSA Johannesburg</a></li>
+					<li><a href="http://www.mcsacapetown.co.za/">MCSA Cape Town</a></li>
+					<li><a href="http://kzn.mcsa.org.za/">MCSA KZN</a></li>
+					<li><a href="https://sites.google.com/site/mcsafs/">MCSA Free State</a></li>
+					<li><a href="https://sites.google.com/site/mcsaste/">MCSA Stellenbosch </a></li>
+					<li><a href="https://mcsasc.wordpress.com/">MCSA South Cape </a></li>
+					<li><a href="http://www.mcsapw.co.za/">MCSA Paarl-Wellington </a></li>
+					<li><a href="https://sites.google.com/site/epmcsa2014/">MCSA Eastern Province  </a></li>
+					<li><a href="https://sites.google.com/site/mcsahot/">MCSA Hottentotsholland </a> </li>
+					<li><a href="https://mcsa-amajuba.org/">MCSA Amajuba </a></li>
+					<li><a href="https://sites.google.com/site/bksatygerberg/">MCSA Tygerberg </a></li>
+					<li><a href="http://www.mcnam.org/">MCSA Namibia</a></li>
+				</ul>
+
 				</div>
 				<div class="clearfix"> </div>
 			</div>
-<!--
-			<div class="about-bottom">
-				<div class="col-md-12 about-grid">
-					<h6>MCSA sections</h6>
-					<p>Members of any of the 13 sections may visit the property of the other sections. </p>
-					<ul style="color:#9A9898;">
-						<li><a href="https://www.facebook.com/MCSASAR/">MCSA Search and Rescue</a></li>
-						<li><a href="https://mcsajohannesburg.org/">MCSA Johannesburg</a></li>
-						<li><a href="http://www.mcsacapetown.co.za/">MCSA Cape Town</a></li>
-						<li><a href="http://kzn.mcsa.org.za/">MCSA KZN</a></li>
-						<li><a href="https://sites.google.com/site/mcsafs/">MCSA Free State</a></li>
-						<li><a href="https://sites.google.com/site/mcsaste/">MCSA Stellenbosch </a></li>
-						<li><a href="https://mcsasc.wordpress.com/">MCSA South Cape </a></li>
-						<li><a href="http://www.mcsapw.co.za/">MCSA Paarl-Wellington </a></li>
-						<li><a href="https://sites.google.com/site/epmcsa2014/">MCSA Eastern Province  </a></li>
-						<li><a href="https://sites.google.com/site/mcsahot/">MCSA Hottentotsholland </a> </li>
-						<li><a href="https://mcsa-amajuba.org/">MCSA Amajuba </a></li>
-						<li><a href="https://sites.google.com/site/bksatygerberg/">MCSA Tygerberg </a></li>
-						<!-- <li><a href="wwwzzzzzzzzzzzzzzzzzzz">MCSA Worcester </a></li>
-						<li><a href="http://www.mcnam.org/">MCSA Namibia</a></li>
-					</ul>
-				</div>
-			</div>
-		-->
+
 <div class="clearfix"> </div>
 
 			<div class="about-bottom" style="margin-top:20px;">
@@ -98,8 +93,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 			</div>
-
-
 
 			<div class="about-bottom">
 			<div class="col-md-4">

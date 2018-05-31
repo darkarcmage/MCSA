@@ -6,10 +6,6 @@
 <div>
 
 	<div class="header-bottom" style="padding:2em 0;">
-
-
-
-
 		<div class="container">
 			<div class="logo">
 				<a href="index.php"><img src="images/MCSAlogo.png" class="img-responsive logoImg" alt="" /></a>
@@ -29,11 +25,6 @@
 				</ul>
 			</div>
 				<div class="clearfix"> </div>
-
-				<!-- script-for-nav -->
-
-
-		<!-- script-for-nav -->
 		</div>
 	</div>
 	<script>
@@ -60,8 +51,8 @@
 
 		  <div class="carousel-caption" style="">
 			<h1 class="TextShadow" >Mountain  Club of South-Africa</h1>
-			<p class="TextShadow">Magaliesberg Section (Pretoria area)</p>
-			<p class="TextShadow">Explore - Discover - Connect - Protect </p>
+			<p class="TextShadow" style="color:white;">Magaliesberg Section (Pretoria area)</p>
+			<p class="TextShadow"  style="color:white;">Explore - Discover - Connect - Protect </p>
 			<p>
 				<a href="join.php"  class="btn btn-default btn-lg" href="" role="button" style="margin:20px 20px 20px 20px">Join</a>
 				<a href="permit.php"  class="btn btn-default btn-lg" href="" role="button" style="margin:20px 20px 20px 20px">Permits</a>
