@@ -72,7 +72,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					The section’s clubhouse is located at the Rietondale Tennis Club where club functions and presentation evenings are held bi-weekly. <BR>
 					The library based at the clubhouse carries an extensive range of books covering various mountaineering and conservation subjects. <BR>
 					The Magaliesberg Section work closely with the Johannesburg Section and together owns and manages not only several of the magnificent Magaliesberg properties, but properties in other areas as well as.
-					<br><br>For more information on the hike and climb meets please refer to the <a href="events.html">events calendar</a>.</p>
+					<br><br>For more information on the hike and climb meets please refer to the <a href="events.php">events calendar</a>.</p>
 				</div>
 			</div>
 
