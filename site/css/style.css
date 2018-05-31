@@ -7,8 +7,21 @@
 		--text-color:#FFFFFF;
 		--heading-color:#fbb034;
 		--main-color:#8c8c8c;
+		--link-color:#42d9f4;
+		--list-color:#33c1f9;
 
 
+}
+li{
+	color:var(--list-color);
+}
+
+.quote{
+	font-size: .9em;
+	text-align: center;
+	font-style: italic;
+	color:grey;
+	margin-bottom: 40px;
 }
 
 p{
@@ -21,7 +34,7 @@ p{
 }
 
 a {
-	color:#42d9f4;
+	color:var(--link-color);
 
 }
 

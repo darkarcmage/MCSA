@@ -59,7 +59,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- news -->
 		<div class="news">
 			<h3>Magaliesberg mountain fauna and flora</h3>
-			<p style="color: white" >Below are some of the flowers and insects you might observe when going hiking in the Magaliesberg mountains. Through continuous conservation efforts we can protect this diversity for future generations.</p>
+			<p style="color: white" >Below are some of the flowers and insects you might observe when going hiking in the Magaliesberg mountains.
+				Through continuous conservation efforts we can protect this diversity for future generations.</p>
 				<div class="news-grids">
 					<div class="col-md-4 news-grid">
 						<img src="imagesCons/img1.JPG" style="height: 250px;"class="img-responsive" alt="" />

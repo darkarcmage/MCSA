@@ -26,10 +26,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about-bottom">
 				<div class="col-md-8 about-grid">
 					<h6 style="color:white;">If you love climbing, hiking or any outdoor adventures this is the place to be! </h6>
-					<p><br>The MCSA was founded in 1891 and, at over 125 years old, is therefore one of the oldest mountaineering clubs in the world. Over the years, the MCSA saved and invested the membership fees and through inheriting funds from members, managed to acquire spectacular mountain areas. These areas where developed with climbing crags and mountain huts in, amongst others, the Magaliesberg, Drakensberg and Table Mountain ranges.
-					The MCSA is the only mountain club in Africa affiliated with the world mountaineering body; the UIAA. <BR><BR>
-					The Club is loosely governed by a central committee and consists of 14 sections spread over South Africa and Namibia with more than 4000 members.
+					<p><br>
+						The objects of the Mountain Club of South Africa:
+						The club is a public, non-profit organisation established for the sole object of promoting the interests of mountaineering, primarily in South Africa, as a recreational pastime and on a non-professional basis conducting all its activities in a manner that is for the benefit of, and widely accessible to, the general public.
+						Without limiting its general nature, the object shall be to, inter alia, include:
+							<ul>
+									<li>Organise and facilitate mountaineering</li>
+									<li>Procure and protect real rights in and access to mountains and mountain areas</li>
+									<li>Initiate and support actions towards protecting the natural beauty and wilderness character of mountains and to promote their effective conservation management</li>
+									<li>Promote the safety and training of mountaineers</li>
+									<li>Promote the safety and training of mountaineers</li>
+									<li>Promote the study of mountains and their environments, the preservation of historical and archaeological sites thereon and the dissemination of information om mountains and mountaineering</li>
+							</ul>
 					 </p>
+					 <p>
+						 The MCSA was founded in 1891 and, at over 125 years old, is therefore one of the oldest mountaineering clubs in the world. Over the years, the MCSA saved and invested the membership fees and through inheriting funds from members, managed to acquire spectacular mountain areas. These areas where developed with climbing crags and mountain huts in, amongst others, the Magaliesberg, Drakensberg and Table Mountain ranges.
+						 The MCSA is the only mountain club in Africa affiliated with the world mountaineering body; the UIAA.
+						 The Club is loosely governed by a central committee and consists of 14 sections spread over South Africa and Namibia with more than 4000 members.
+					 </p>
+
+
 				</div>
 				<div class="col-md-4">
 				<div class="view effect">
@@ -38,7 +54,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="clearfix"> </div>
 			</div>
-
+<!--
 			<div class="about-bottom">
 				<div class="col-md-12 about-grid">
 					<h6>MCSA sections</h6>
@@ -56,11 +72,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="https://sites.google.com/site/mcsahot/">MCSA Hottentotsholland </a> </li>
 						<li><a href="https://mcsa-amajuba.org/">MCSA Amajuba </a></li>
 						<li><a href="https://sites.google.com/site/bksatygerberg/">MCSA Tygerberg </a></li>
-						<!-- <li><a href="wwwzzzzzzzzzzzzzzzzzzz">MCSA Worcester </a></li> -->
+						<!-- <li><a href="wwwzzzzzzzzzzzzzzzzzzz">MCSA Worcester </a></li>
 						<li><a href="http://www.mcnam.org/">MCSA Namibia</a></li>
 					</ul>
 				</div>
 			</div>
+		-->
 <div class="clearfix"> </div>
 
 			<div class="about-bottom" style="margin-top:20px;">
@@ -68,11 +85,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h4>About the Magaliesberg section of MCSA</h4>
 					<h6></h6>
 					<p>The Magaliesberg Section of the Mountain Club of South Africa (referred to as MCSA Magalies) was established in 1968 and is based in Pretoria. Activities arranged by the Section includes mountaineering, rock climbing, bouldering, hiking, training, conservation, search and rescue..
-					Most of these activities takes place at venues in the Magaliesberg, as well as other areas of South Africa and abroad. <BR>
-					The section’s clubhouse is located at the Rietondale Tennis Club where club functions and presentation evenings are held bi-weekly. <BR>
-					The library based at the clubhouse carries an extensive range of books covering various mountaineering and conservation subjects. <BR>
-					The Magaliesberg Section work closely with the Johannesburg Section and together owns and manages not only several of the magnificent Magaliesberg properties, but properties in other areas as well as.
-					<br><br>For more information on the hike and climb meets please refer to the <a href="events.php">events calendar</a>.</p>
+						Most of these activities takes place at venues in the Magaliesberg, as well as other areas of South Africa and abroad.
+						The section’s clubhouse is located at the Rietondale Tennis Club where club functions & presentation evenings are held bi-weekly.
+					</p>
+					<p>The library based at the clubhouse carries an extensive range of books covering various mountaineering and conservation subjects.
+						The MCSA Magaliesberg Section is registered with the Department of Social Development as a non-profit organization.
+						The Magaliesberg Section work closely with the Johannesburg Section and together owns and manages not only several of the magnificent Magaliesberg properties, but properties in other areas as well as.
+					</p>
+
+					<div class="quote">
+							“ ... the real challenge is to learn how to use and enjoy all that the mountains have to offer and allow that enjoyment to be sustained in perpetuity." ~Vincent Carruthers
+					</div>
 				</div>
 			</div>
 
@@ -83,6 +106,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="view effect">
 					<img src="images/img3.jpg" alt="image" class="img-responsive zoom-img">
 				</div>
+				<h6>Download policies and forms</h6>
+				<p>  </p>
+				<ul style="color:#9A9898;">
+					<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">MCSA Magalies Constitution</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">Code of Conduct</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">Property access rules</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">New members slide show</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">Dog policy</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Member and Permit fees</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Guide to non-members</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Meet attendance list</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Meet leader report</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Leaders code</a></li>
+					<li><a href="https://drive.google.com/drive/folders/16SafWAAng8muPa8PZuBxF_uwpBVEGmX5">Patrol feedback forms</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1fRN-OWdYXg07s6QXZ0gx6xjq_uV2alfJ">Club Library catalogue</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1TWA563Ir08W4o5fSwVfNvSTAL7yIXP_l">Pelgeray</a></li>
+				</ul>
+
 				</div>
 				<div class="col-md-8 about-grid">
 					<h4>About the Magaliesberg</h4>
@@ -99,27 +140,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 
-						<div class="about-bottom">
-				<div class="col-md-12 about-grid">
-					<h6>Download policies and forms</h6>
-					<p>  </p>
-					<ul style="color:#9A9898;">
-						<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">MCSA Magalies Constitution</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">Code of Conduct</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">Property access rules</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">New members slide show</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1lv_7v2JqUPyMUiYgDyX9O09BmoMjdglJ">Dog policy</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Member and Permit fees</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Guide to non-members</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Meet attendance list</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Meet leader report</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Leaders code</a></li>
-						<li><a href="https://drive.google.com/drive/folders/16SafWAAng8muPa8PZuBxF_uwpBVEGmX5">Patrol feedback forms</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1fRN-OWdYXg07s6QXZ0gx6xjq_uV2alfJ">Club Library catalogue</a></li>
-						<li><a href="https://drive.google.com/drive/folders/1TWA563Ir08W4o5fSwVfNvSTAL7yIXP_l">Pelgeray</a></li>
-					</ul>
-				</div>
-			</div>
 
 		</div>
 	</div>

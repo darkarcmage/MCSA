@@ -30,27 +30,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h6 style="color:white;">  </h6>
 					<h5>Permit - Grootkloof, Wilgepoort and Dome Pools</h5>
 						<p>Permit prices differ depending on whether you are an adult
-						, student or child. Please refer to <a href="https://drive.google.com/drive/folders/1_j_cMHaX3fzkd_10EoJU-XdkHdEjBhu4">Member and Permit fees</a> document for costs.
+						, student or child. Please refer to <a href="https://drive.google.com/open?id=1GDPudqfifSn5TmTn7WWzXjEzJdl2-ujH">Member and Permit fees</a> document for costs.
 
 						The Magaliesberg section of the Mountain club of South Africa only issue permits to Grootkloof, Wilgepoort and Dome pools. For a permit to the Wolkberg hut, Mhlabatine and Castle Gorge please check the
-						 <a  target="_blank"  href="https://mcsajohannesburg.org/permits-and-huts/">MCSA Johannesburg section  &gt;&gt;</a> website or the <a  target="_blank"  href="http://www.jhbhiking.co.za/main/">Johannesburg hiking club &gt;&gt;</a> for Castle Gorge permits.
+						 <a  target="_blank"  href="https://mcsajohannesburg.org/permits-and-huts/">MCSA Johannesburg section </a> website or the <a  target="_blank"  href="http://www.jhbhiking.co.za/main/">Johannesburg Hiking Club </a> for Castle Gorge permits.
 						</p>
 
 						<form method="post" action="permitEngine.php" id="formtocomplete"  name="ContactForm" onsubmit="return validateContact(this)">
 						  <p> <b><i>Please complete the below form to apply for a permit:</i></b></p>
 						  <div class="visitors">
 						<label for="Name">Name and Surname:<span style="color:red;">* </span></label>
-						  <input type="text" name="Name" id="Name" /> <br>
+						  <input type="text" name="Name" id="Name" required="required" /> <br>
 						  </div>
 
 						  <div class="visitors">
 						<label for="Phone">Phone:<span style="color:red;">* </span></label>
-						  <input type="text" name="Phone" id="Phone" /><br>
+						  <input type="text" name="Phone" id="Phone" required="required"/><br>
 						  </div>
 
 						  <div class="visitors">
 						<label for="Email">Email:<span style="color:red;">* </span></label>
-						  <input type="text" name="Email" id="Email" /><br>
+						  <input type="text" name="Email" id="Email" required="required"/><br>
 						  </div>
 
 						<div class="visitors">
@@ -58,13 +58,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						  <input type="text" name="MCSANumber" id="MCSANumber" value="" placeholder="MCSA number"/> <br>
 						</div>
 
-						<label for="Permit">Which property:<span style="color:red;">* </span></label>
-						  <select name="Permit" id="Permit">
-						  <option value="Grootkloof" name="Grootkloof" id="Grootkloof">Grootkloof</option>
-						  <option value="Wilgepoort" name="Wilgepoort" id="Wilgepoort">Wilgepoort</option>
-						  <option value="DomePools" name="Dome Pools" id="DomePools">Dome pools</option>
-						</select>
-
+						<div class="visitors">
+							<label for="Permit">Which property:<span style="color:red;">* </span></label>
+							  <select name="Permit" id="Permit" required="required">
+									<option value="" name="null" id="null">--Select Property--</option>
+							  	<option value="Grootkloof" name="Grootkloof" id="Grootkloof">Grootkloof</option>
+							  	<option value="Wilgepoort" name="Wilgepoort" id="Wilgepoort">Wilgepoort</option>
+							  	<option value="DomePools" name="Dome Pools" id="DomePools">Dome pools</option>
+								</select>
+						</div>
 						  <br><br><br>
 
 						<div class="visitors">
@@ -83,7 +85,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						<div class="visitors">
 						  <label for="children">Children <i>(3 - 13 years)</i></label>
-						  <input id="children" type="number" name="children" placeHolder="Children"/>
+						  <input id="children" type="number" name="children" placeHolder="Children" />
 						   </div>
 						<div class="visitors">
 						  <label for="youngsters">Youngsters <i> (14 - 20 years)</i></label>
