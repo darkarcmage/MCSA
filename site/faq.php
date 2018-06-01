@@ -210,7 +210,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
              </p>
 					  </div>
 
-            <h4  class="faqQ" id="q019">How do i, as a MCSA member, arrange official meets?</h4>
+            <h4  class="faqQ" id="q019">How do I, as a MCSA member, arrange official meets?</h4>
 					  <div class="faqA" id="a019">
                 <p>
                   Write a short description of your event (what you will do, when, where, cost, etc.) and send it to the MCSA committee member handling that portfolio (climbing/hiking/etc.). The portfolio manager will send it to the newsletter and advertise it on the Facebook page. Take note that we need to give our members 2-3 weeks to react to such an invitation so it needs to be submitted timeously.

@@ -1,12 +1,12 @@
 :root{
-		--background-color: #3f4e67;
+		--background-color:#1e3060; /*#3f4e67;
 		/*How to use
 			var(--background-color);
 		*/
-		--subheading-color:#f98c33;/*#0070C6;*/
+		--subheading-color:#d10016;/*#0070C6;*/
 		--text-color:#FFFFFF;
-		--heading-color:#fbb034;
-		--main-color:#8c8c8c;
+		--heading-color:#d10016;/*#fbb034;*/
+		--main-color:#999;/*#8c8c8c;*/
 		--link-color:#42d9f4;
 		--list-color:#33c1f9;
 
@@ -783,7 +783,7 @@ i.rss:hover{
 	width:100%;
 }
 .news-grid p {
-	color: #8c8c8c;
+	color: var(--main-color);
 	font-size: 15px;
 	line-height: 1.8em;
 	margin: .5em 0 0 0;
