@@ -1,11 +1,11 @@
 :root{
-		--background-color:#1e3060; /*#3f4e67;
+		--background-color:#3f4e67; /*#3f4e67;
 		/*How to use
 			var(--background-color);
 		*/
-		--subheading-color:#d10016;/*#0070C6;*/
+		--subheading-color:#fa7252;/*#0070C6;*/
 		--text-color:#FFFFFF;
-		--heading-color:#d10016;/*#fbb034;*/
+		--heading-color:#fa7252;/*#fbb034;*/
 		--main-color:#999;/*#8c8c8c;*/
 		--link-color:#42d9f4;
 		--list-color:#33c1f9;
@@ -30,12 +30,17 @@ p{
 
 .TextShadow{
 	text-shadow:0px 0px 5px #000000;
-
+	color:white;
 }
 
 a {
 	color:var(--link-color);
 
+}
+
+.pageHeader{
+	margin-top: -40px;
+	text-align: center;
 }
 
 img + p > a{
@@ -55,6 +60,15 @@ input[type="date"] {
 keygen, select, select[size="0"], select[size="1"] {
 
     padding: 0px !important;
+}
+
+input[type='checkbox'] {
+
+    width:25px;
+    height:25px;
+    background:white;
+    border-radius:5px;
+    border:2px solid #555;
 }
 
 
@@ -840,7 +854,7 @@ i.rss:hover{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:240px;
+	min-height:260px;
 	text-align:left;
 	margin-top:-110px;
 }
@@ -1718,7 +1732,7 @@ a.play-icon span {
 }
 .main {
 	padding: 2em 0 2em;
-	text-align:center;
+	text-align:left;
 }
 .blue {
 	margin:0 0 0 2em;

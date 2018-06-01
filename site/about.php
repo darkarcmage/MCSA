@@ -52,7 +52,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/magalies.jpg" alt="image" class="img-responsive zoom-img">
 				</div>
 				<h6>Other MCSA sections</h6>
-				
+
 				<ul style="color:#9A9898;">
 					<li><a href="https://www.facebook.com/MCSASAR/">MCSA Search and Rescue</a></li>
 					<li><a href="https://mcsajohannesburg.org/">MCSA Johannesburg</a></li>
@@ -97,7 +97,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about-bottom">
 			<div class="col-md-4">
 				<div class="view effect">
-					<img src="images/img3.jpg" alt="image" class="img-responsive zoom-img">
+					<img src="images/image21.jpg" alt="image" class="img-responsive zoom-img">
 				</div>
 				<h6>Download policies and forms</h6>
 				<p>  </p>

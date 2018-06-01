@@ -26,9 +26,11 @@
 
 		<div class="banner1">
 		<div class="container">
-	</div>
-	</div>
 
+	</div>
+	</div>
+	<!-- <h3 class="TextShadow pageHeader" >MCSA Magaliesberg</h3>-->
+	</div>
 <script>
 
 	var menuActive = false;
