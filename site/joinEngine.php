@@ -1,93 +1,93 @@
 <?php
 
 $EmailFrom = "ddall94@gmail.com";  //remember to change
-$Name = Trim(stripslashes($_POST['Name'])); 
-$Surname = Trim(stripslashes($_POST['Surname'])); 
-$Phone = Trim(stripslashes($_POST['Phone'])); 
-$Email = Trim(stripslashes($_POST['Email']));  
-$ID = Trim(stripslashes($_POST['ID']));  
-$HomeA = Trim(stripslashes($_POST['HomeA'])); 
+$Name = Trim(stripslashes($_POST['Name']));
+$Surname = Trim(stripslashes($_POST['Surname']));
+$Phone = Trim(stripslashes($_POST['Phone']));
+$Email = Trim(stripslashes($_POST['Email']));
+$ID = Trim(stripslashes($_POST['ID']));
+$HomeA = Trim(stripslashes($_POST['HomeA']));
 
-$NameP = Trim(stripslashes($_POST['NameP'])); 
-$SurnameP = Trim(stripslashes($_POST['SurnameP'])); 
-$PhoneP = Trim(stripslashes($_POST['PhoneP'])); 
-$EmailP = Trim(stripslashes($_POST['EmailP']));  
-$IDP = Trim(stripslashes($_POST['IDP']));  
+$NameP = Trim(stripslashes($_POST['NameP']));
+$SurnameP = Trim(stripslashes($_POST['SurnameP']));
+$PhoneP = Trim(stripslashes($_POST['PhoneP']));
+$EmailP = Trim(stripslashes($_POST['EmailP']));
+$IDP = Trim(stripslashes($_POST['IDP']));
 
-$NameC1 = Trim(stripslashes($_POST['NameC1'])); 
-$SurnameC1 = Trim(stripslashes($_POST['SurnameC1'])); 
-$PhoneC1 = Trim(stripslashes($_POST['PhoneC1'])); 
-$EmailC1 = Trim(stripslashes($_POST['EmailC1']));  
-$IDC1 = Trim(stripslashes($_POST['IDC1']));  
+$NameC1 = Trim(stripslashes($_POST['NameC1']));
+$SurnameC1 = Trim(stripslashes($_POST['SurnameC1']));
+$PhoneC1 = Trim(stripslashes($_POST['PhoneC1']));
+$EmailC1 = Trim(stripslashes($_POST['EmailC1']));
+$IDC1 = Trim(stripslashes($_POST['IDC1']));
 
-$NameC2 = Trim(stripslashes($_POST['NameC2'])); 
-$SurnameC2 = Trim(stripslashes($_POST['SurnameC2'])); 
-$PhoneC2 = Trim(stripslashes($_POST['PhoneC2'])); 
-$EmailC2 = Trim(stripslashes($_POST['EmailC2']));  
-$IDC2 = Trim(stripslashes($_POST['IDC2']));  
+$NameC2 = Trim(stripslashes($_POST['NameC2']));
+$SurnameC2 = Trim(stripslashes($_POST['SurnameC2']));
+$PhoneC2 = Trim(stripslashes($_POST['PhoneC2']));
+$EmailC2 = Trim(stripslashes($_POST['EmailC2']));
+$IDC2 = Trim(stripslashes($_POST['IDC2']));
 
-$NameC3 = Trim(stripslashes($_POST['NameC3'])); 
-$SurnameC3 = Trim(stripslashes($_POST['SurnameC3'])); 
-$PhoneC3 = Trim(stripslashes($_POST['PhoneC3'])); 
-$EmailC3 = Trim(stripslashes($_POST['EmailC3']));  
-$IDC3 = Trim(stripslashes($_POST['IDC3']));  
+$NameC3 = Trim(stripslashes($_POST['NameC3']));
+$SurnameC3 = Trim(stripslashes($_POST['SurnameC3']));
+$PhoneC3 = Trim(stripslashes($_POST['PhoneC3']));
+$EmailC3 = Trim(stripslashes($_POST['EmailC3']));
+$IDC3 = Trim(stripslashes($_POST['IDC3']));
 
-$NameC4 = Trim(stripslashes($_POST['NameC4'])); 
-$SurnameC4 = Trim(stripslashes($_POST['SurnameC4'])); 
-$PhoneC4 = Trim(stripslashes($_POST['PhoneC4'])); 
-$EmailC4 = Trim(stripslashes($_POST['EmailC4']));  
-$IDC4 = Trim(stripslashes($_POST['IDC4'])); 
+$NameC4 = Trim(stripslashes($_POST['NameC4']));
+$SurnameC4 = Trim(stripslashes($_POST['SurnameC4']));
+$PhoneC4 = Trim(stripslashes($_POST['PhoneC4']));
+$EmailC4 = Trim(stripslashes($_POST['EmailC4']));
+$IDC4 = Trim(stripslashes($_POST['IDC4']));
 
-$NameC5 = Trim(stripslashes($_POST['NameC5'])); 
-$SurnameC5 = Trim(stripslashes($_POST['SurnameC5'])); 
-$PhoneC5 = Trim(stripslashes($_POST['PhoneC5'])); 
-$EmailC5 = Trim(stripslashes($_POST['EmailC5']));  
-$IDC5 = Trim(stripslashes($_POST['IDC5'])); 
+$NameC5 = Trim(stripslashes($_POST['NameC5']));
+$SurnameC5 = Trim(stripslashes($_POST['SurnameC5']));
+$PhoneC5 = Trim(stripslashes($_POST['PhoneC5']));
+$EmailC5 = Trim(stripslashes($_POST['EmailC5']));
+$IDC5 = Trim(stripslashes($_POST['IDC5']));
 
-$Language = Trim(stripslashes($_POST['Language']));  
-$Occupation = Trim(stripslashes($_POST['Occupation']));  
-$Gender = Trim(stripslashes($_POST['Gender']));  
+$Language = Trim(stripslashes($_POST['Language']));
+$Occupation = Trim(stripslashes($_POST['Occupation']));
+$Gender = Trim(stripslashes($_POST['Gender']));
 
-$OtherClub = Trim(stripslashes($_POST['OtherClub']));  
-$CurrentMembership = Trim(stripslashes($_POST['CurrentMembership']));  
-$PreviousMembership = Trim(stripslashes($_POST['PreviousMembership']));  
-$Message = Trim(stripslashes($_POST['Message']));  
+$OtherClub = Trim(stripslashes($_POST['OtherClub']));
+$CurrentMembership = Trim(stripslashes($_POST['CurrentMembership']));
+$PreviousMembership = Trim(stripslashes($_POST['PreviousMembership']));
+$Message = Trim(stripslashes($_POST['Message']));
 
-$Patrolling = Trim(stripslashes($_POST['Patrolling']));  
-$Clearing = Trim(stripslashes($_POST['Clearing']));  
-$WorkMeets = Trim(stripslashes($_POST['WorkMeets']));  
+$Patrolling = Trim(stripslashes($_POST['Patrolling']));
+$Clearing = Trim(stripslashes($_POST['Clearing']));
+$WorkMeets = Trim(stripslashes($_POST['WorkMeets']));
 
-$Date1 = Trim(stripslashes($_POST['Date1']));  
-$Venue1 = Trim(stripslashes($_POST['Venue1']));  
-$Leader1 = Trim(stripslashes($_POST['Leader1']));  
-$Activity1 = Trim(stripslashes($_POST['Activity1'])); 
+$Date1 = Trim(stripslashes($_POST['Date1']));
+$Venue1 = Trim(stripslashes($_POST['Venue1']));
+$Leader1 = Trim(stripslashes($_POST['Leader1']));
+$Activity1 = Trim(stripslashes($_POST['Activity1']));
 
-$Date2 = Trim(stripslashes($_POST['Date2']));  
-$Venue2 = Trim(stripslashes($_POST['Venue2']));  
-$Leader2 = Trim(stripslashes($_POST['Leader2']));  
-$Activity2 = Trim(stripslashes($_POST['Activity2'])); 
+$Date2 = Trim(stripslashes($_POST['Date2']));
+$Venue2 = Trim(stripslashes($_POST['Venue2']));
+$Leader2 = Trim(stripslashes($_POST['Leader2']));
+$Activity2 = Trim(stripslashes($_POST['Activity2']));
 
-$Date3 = Trim(stripslashes($_POST['Date3']));  
-$Venue3 = Trim(stripslashes($_POST['Venue3']));  
-$Leader3 = Trim(stripslashes($_POST['Leader3']));  
-$Activity3 = Trim(stripslashes($_POST['Activity3'])); 
+$Date3 = Trim(stripslashes($_POST['Date3']));
+$Venue3 = Trim(stripslashes($_POST['Venue3']));
+$Leader3 = Trim(stripslashes($_POST['Leader3']));
+$Activity3 = Trim(stripslashes($_POST['Activity3']));
 
-$Name2 = Trim(stripslashes($_POST['Name2']));  
-$Phone2 = Trim(stripslashes($_POST['Phone2']));  
-$Email2 = Trim(stripslashes($_POST['Email2']));  
-$MagN1 = Trim(stripslashes($_POST['MagN1']));  
+$Name2 = Trim(stripslashes($_POST['Name2']));
+$Phone2 = Trim(stripslashes($_POST['Phone2']));
+$Email2 = Trim(stripslashes($_POST['Email2']));
+$MagN1 = Trim(stripslashes($_POST['MagN1']));
 
-$Name3 = Trim(stripslashes($_POST['Name3']));  
-$Phone3 = Trim(stripslashes($_POST['Phone3']));  
-$Email3 = Trim(stripslashes($_POST['Email3']));  
-$MagN2 = Trim(stripslashes($_POST['MagN2']));  
+$Name3 = Trim(stripslashes($_POST['Name3']));
+$Phone3 = Trim(stripslashes($_POST['Phone3']));
+$Email3 = Trim(stripslashes($_POST['Email3']));
+$MagN2 = Trim(stripslashes($_POST['MagN2']));
 
-$Abide = Trim(stripslashes($_POST['Abide']));  
-$Agree = Trim(stripslashes($_POST['Agree']));  
-$Notice = Trim(stripslashes($_POST['Notice']));  
-$Disclaim = Trim(stripslashes($_POST['Disclaim']));  
-$TermsAndConditions = Trim(stripslashes($_POST['TermsAndConditions']));  
- 
+$Abide = Trim(stripslashes($_POST['Abide']));
+$Agree = Trim(stripslashes($_POST['Agree']));
+$Notice = Trim(stripslashes($_POST['Notice']));
+$Disclaim = Trim(stripslashes($_POST['Disclaim']));
+$TermsAndConditions = Trim(stripslashes($_POST['TermsAndConditions']));
+
 $EmailTo = "ddall94@gmail.com, $Email";
 $EmailTo2 = "ddall94@gmail.com, $Email2, $Email3";
 $Subject = "MCSA Magaliesberg membership application";
@@ -112,11 +112,11 @@ $fields = array(
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_TIMEOUT, 60);
     curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($fields));
- 
+
     $response = curl_exec($ch);
     $responseKeys = (array) json_decode($response);
     curl_close($ch);
-   
+
 if  ($responseKeys["success"] == false) {
 	print "<meta http-equiv=\"refresh\" content=\"0;URL=error.php?e=cf\">";
 	exit;
@@ -422,12 +422,12 @@ $Body2 .= "admin@mag.mcsa.org.za";
 $Body2 .= "\n";
 $Body2 .= "www.mcsamagalies.co.za";
 
-// send email 
+// send email
 $success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
 $success = mail($EmailTo2, $Subject2, $Body2, "From: <$EmailFrom>");
 }
 
-// redirect to success page 
+// redirect to success page
 if ($success){
   print "<meta http-equiv=\"refresh\" content=\"0;URL=thankyou.php\">";
 }
