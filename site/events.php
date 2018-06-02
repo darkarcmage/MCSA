@@ -17,14 +17,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <body>
 <!-- header -->
 <?php include "parts/header.php"; ?>
-<!-- header -->
+<!-- header --> 
 <!-- about -->
 		<div class="main">
 		<div class="container contentMain">
 			<div class="about">
 				<h4>Events Calendar</h4>
 			</div>
-			
+
 			<div class="col-md-12 about-grid">
 				<p><i>To add this calendar to your google calendar please click on the small blue plus sign at the bottom right corner of the calendar.</i></p>
 				<p> You don't need to be a member of the mountain club to join any of the below meets. </p>
