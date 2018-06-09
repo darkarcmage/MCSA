@@ -9,7 +9,12 @@
 		--main-color:#999;/*#8c8c8c;*/
 		--link-color:#42d9f4;
 		--list-color:#33c1f9;
+		/*
 
+			#fec35a - flower green
+
+
+		*/
 
 }
 li{
@@ -123,6 +128,8 @@ h3,h4,h5,h6{
 	top:8%;
 	margin:auto;
 	left:46%;
+	max-width: 150px;
+	max-height: 150px;
 }
 
 .carousel-caption {

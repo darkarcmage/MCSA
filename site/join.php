@@ -242,16 +242,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</select>
 						</div>
 
+
 						 <h4>Mountaineering experience</h4>
 						<div class="visitors" style="width: 100%; max-width: 1000px;">
-							<label style="width: 100%" for="OtherClub">Have you ever been refused membership of this or any other Section of the MCSA, or of any other mountain club or had your membership been suspended? :<span style="color:red;">* </span></label>
+							<label style="width: 100%" for="OtherClub">Have you ever been refused membership of any Section of the MCSA, or of any other mountain club or had your membership been suspended? :<span style="color:red;">* </span></label>
 							  <select name="OtherClub" id="OtherClub">
 							  <option value="NoO" name="No" id="NoO">No</option>
 							  <option value="YesO" name="Yes" id="YesO">Yes</option>
 							</select>
 						</div>
 						<div class="clearfix"></div>
-						<br/><br/>
+						<br/><br/><br/><br/>
 						<div class="visitors" style="width: 100%; max-width: 1000px;">
 						<label style="width: 100%" for="CurrentMembership">Name any MCSA Section or other mountain club of which you are a member at present if any:</label>
 						  <input type="text" name="CurrentMembership" id="CurrentMembership" /> <br/>
@@ -461,6 +462,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	</div>
+</div>
+</div>
 <!-- about -->
 <!-- footer -->
 <?php include "parts/footer.php"; ?>

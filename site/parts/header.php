@@ -29,7 +29,7 @@
 
 	</div>
 	</div>
-	<!-- <h3 class="TextShadow pageHeader" >MCSA Magaliesberg</h3>-->
+	 	<h3 class="TextShadow pageHeader" >The Mountain Club of South Africa</h3>
 	</div>
 <script>
 

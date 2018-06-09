@@ -1,6 +1,11 @@
 ﻿<!DOCTYPE HTML>
 <html>
+<head>
+		<title>
+			Welcome to the MCSA Magaliesberg Section
+		</title>
 <?php include "parts/head.php"; ?>
+</head>
 <body>
 <!-- header <h1 class="TextShadow" >Mountain  Club of South-Africa</h1>-->
 <div>
@@ -50,7 +55,7 @@
 		<div class="container">
 
 		  <div class="carousel-caption" style="">
-			<h1 class="TextShadow" >Mountain  Club of South-Africa</h1>
+			<h1 class="TextShadow" >The Mountain  Club of South Africa</h1>
 			<p class="TextShadow" style="color:white;">Magaliesberg Section (Pretoria area)</p>
 			<p class="TextShadow"  style="color:white;">Explore - Discover - Connect - Protect </p>
 			<p>

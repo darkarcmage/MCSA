@@ -3,15 +3,7 @@
 <html>
 <head>
 <title>Hiking and Climbing events</title>
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800' rel='stylesheet' type='text/css'>
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+<?php include "parts/head.php"; ?>
 
 </head>
 <body>
@@ -24,7 +16,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about">
 				<h4>Events Calendar</h4>
 			</div>
-			
+
 			<div class="col-md-12 about-grid">
 				<p><i>To add this calendar to your google calendar please click on the small blue plus sign at the bottom right corner of the calendar.</i></p>
 				<p> You don't need to be a member of the mountain club to join any of the below meets. </p>
