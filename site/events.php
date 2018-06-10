@@ -9,7 +9,7 @@
 <body>
 <!-- header -->
 <?php include "parts/header.php"; ?>
-<!-- header -->
+<!-- header -->  
 <!-- about -->
 		<div class="main">
 		<div class="container contentMain">
