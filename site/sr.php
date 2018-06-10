@@ -2,15 +2,7 @@
 <html>
 <head>
 <title>Club property</title>
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hiking Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800' rel='stylesheet' type='text/css'>
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+<?php include "parts/head.php"; ?>
 
 </head>
 <body>
@@ -37,13 +29,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<a href="https://www.facebook.com/MCSASAR/">Visit them on Facebook &gt;&gt;</a>
 						</div>
 					</div>
-					
+
 
 					<div class="clearfix"> </div>
 				</div>
 			</div>
 		</div>
-		<!-- //news -->	
+		<!-- //news -->
 		</div>
 	</div>
 <!-- about -->
