@@ -97,7 +97,7 @@ display: flex;
 					<h4>Climbing</h4>
 				</div>
 				<img  src="images/committee/andrew.jpeg"></img>
-					<p>Andrew Louw <br>
+					<p>Lilja Lakic<br>
 					<a href="mailto:climbing@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
@@ -168,7 +168,7 @@ display: flex;
 					<h4>Hiking</h4>
 				</div>
 					<img  src="images/committee/frik.jpeg"></img>
-					<p>Frik Stegmann<br>
+					<p>Hanlie Schmidt<br>
 					<a href="mailto:hiking@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
