@@ -16,7 +16,7 @@
 				<a href="index.php"><img src="images/MCSAlogo.png" class="img-responsive logoImg" alt="" /></a>
 			</div>
 			<div class="head-nav">
-
+<!-- A comment -->
 				<span class="menu" onclick="toggleMobileMenu()"> </span>
 					<ul id="menuMobile">
 						<li class="active"><a href="index.php">Home</a></li>
