@@ -27,7 +27,7 @@
 									<li>Procure and protect real rights in and access to mountains and mountain areas</li>
 									<li>Initiate and support actions towards protecting the natural beauty and wilderness character of mountains and to promote their effective conservation management</li>
 									<li>Promote the safety and training of mountaineers</li>
-									<li>Promote the safety and training of mountaineers</li>
+									<li>Organise Search & Rescue parties</li>
 									<li>Promote the study of mountains and their environments, the preservation of historical and archaeological sites thereon and the dissemination of information om mountains and mountaineering</li>
 							</ul>
 					 </p>
@@ -71,7 +71,7 @@
 				<div class="col-md-12 about-grid">
 				<h4>About the Magaliesberg section of MCSA</h4>
 					<h6></h6>
-					<p>The Magaliesberg Section of the Mountain Club of South Africa (referred to as MCSA Magalies) was established in 1968 and is based in Pretoria. Activities arranged by the Section includes mountaineering, rock climbing, bouldering, hiking, training, conservation, search and rescue..
+					<p>The Magaliesberg Section of the Mountain Club of South Africa (referred to as MCSA Magalies) was established in 1968 and is based in Pretoria. Activities arranged by the Section includes mountaineering, rock climbing, bouldering, hiking, training, conservation, search and rescue.
 						Most of these activities takes place at venues in the Magaliesberg, as well as other areas of South Africa and abroad.
 						The section’s clubhouse is located at the Rietondale Tennis Club where club functions & presentation evenings are held bi-weekly.
 					</p>
@@ -106,19 +106,19 @@
 					<li><a href="https://drive.google.com/drive/folders/1LoovLdO6scVZiW48ES8Xv9XbczhWzNAR">Leaders code</a></li>
 					<li><a href="https://drive.google.com/drive/folders/16SafWAAng8muPa8PZuBxF_uwpBVEGmX5">Patrol feedback forms</a></li>
 					<li><a href="https://drive.google.com/drive/folders/1fRN-OWdYXg07s6QXZ0gx6xjq_uV2alfJ">Club Library catalogue</a></li>
-					<li><a href="https://drive.google.com/drive/folders/1TWA563Ir08W4o5fSwVfNvSTAL7yIXP_l">Pelgeray</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1TWA563Ir08W4o5fSwVfNvSTAL7yIXP_l">Peglerae</a></li>
 				</ul>
 
 				</div>
 				<div class="col-md-8 about-grid">
 					<h4>About the Magaliesberg</h4>
 					<h6></h6>
-					<p>‘The Magaliesberg are among the oldest mountains in the world, and stretches for 120km from Bronkhorstspruit Dam east of Pretoria to Rustenburg in the west and separates the highveld grasslands to the south, from the bushveld savannah in the north.’
-					‘Water runoff from the mountains has created deep gullies and wonderful kloofs, some more than 100 meters deep, with perennial waterfalls of crystal clear water spilling from the heart of the mountain.’ These beautiful places are popular with climbers and hikers and was declared a World Biosphere Reserve by the International Coordinating Council of the Programme on Man and the Biosphere (MAB).
+					<p>‘The Magaliesberg are among the oldest mountains in the world, and stretches for 120km from Bronkhorstspruit Dam east of Pretoria to Rustenburg in the west and separates the highveld grasslands to the south, from the bushveld savannah in the north.
+					Water runoff from the mountains has created deep gullies and wonderful kloofs, some more than 100 meters deep, with perennial waterfalls of crystal clear water spilling from the heart of the mountain.’ These beautiful places are popular with climbers and hikers and was declared a World Biosphere Reserve by the International Coordinating Council of the Programme on Man and the Biosphere (MAB).'
 					Source: http://www.magaliesberg.co.za/mountain.html  <BR><BR>
 
-					During the mid-1800s, one of the more important Chiefs of the North-west Province area was named Mogale (or Mohale). "Mogale" means "sharp" or "clever" person, but is also the common word for a warrior or Tswana soldier. In his honor the mountains became known as Magaliesberg, or Mogale's mountain.
-					Kgosi Mogale Mogale (the repetition of the name is correct) was ruler of the Bapo tribe whose territory included Krugersdorp, Kagiso, Munsieville, Magaliesburg, Hekpoort and Tarlton. A statue of Kgosi Mogale Mogale can be visited in the Krugersdorp Museum.
+					'During the mid-1800s, one of the more important Chiefs of the North-west Province area was named Mogale (or Mohale). "Mogale" means "sharp" or "clever" person, but is also the common word for a warrior or Tswana soldier. In his honor the mountains became known as Magaliesberg, or Mogale's mountain.
+					Kgosi Mogale Mogale (the repetition of the name is correct) was ruler of the Bapo tribe whose territory included Krugersdorp, Kagiso, Munsieville, Magaliesburg, Hekpoort and Tarlton. A statue of Kgosi Mogale Mogale can be visited in the Krugersdorp Museum.'
 					Source: http://www.bapo.co.za/history.html
 					 </p>
 				</div>

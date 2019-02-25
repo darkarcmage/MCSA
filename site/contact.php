@@ -27,7 +27,9 @@ display: flex;
 				 </div>
 		       <p>Call: 083 845 1573</p>
 				 	 <p>Email: <a href="mailto:admin@mag.mcsa.org.za">admin@mag.mcsa.org.za</a></p>
-				   <p>Follow on: <span><a href="https://www.facebook.com/groups/MCSA.Magaliesberg/">Facebook</a></span></p>
+				   	<p><span><a href="https://www.facebook.com/groups/MCSA.Magaliesberg/">Facebook</a></span></p>
+					<p><span>Instagram: mcsa_magaliesberg</a></span></p>
+					<p><span>Subscribe to our weekly newsletter here</a></span></p>
 					 <br/>
 				  <div class="content_bottom">
 				 	<div class="company_address" style="width:100%">
@@ -86,8 +88,8 @@ display: flex;
 				<div class="news-grid-text">
 					<h4>Treasurer</h4>
 				</div>
-				<img  src="images/committee/desi.jpeg"></img>
-					<p>Desiree Dall <br>
+				<img  src="images/committee/MCSAlogo.png"></img>
+					<p>Vacant <br>
 					<a href="mailto:treasurer@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
@@ -96,8 +98,8 @@ display: flex;
 				<div class="news-grid-text">
 					<h4>Climbing</h4>
 				</div>
-				<img  src="images/committee/andrew.jpeg"></img>
-					<p>Lilja Lakic<br>
+				<img  src="images/committee/MCSAlogo.png"></img>
+					<p>Vacant<br>
 					<a href="mailto:climbing@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
@@ -109,8 +111,8 @@ display: flex;
 				<div class="news-grid-text">
 					<h4>Search & Rescue</h4>
 				</div>
-				<img  src="images/committee/rupert.jpeg"></img>
-					<p>Rupert Stander<br>
+				<img  src="images/committee/MCSAlogo.png"></img>
+					<p>Corrie Snyman<br>
 					<a href="mailto:rescue@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
@@ -125,9 +127,9 @@ display: flex;
 
 			<div class="col-sm-2 news-grid">
 				<div class="news-grid-text">
-					<h4>Youth & Outre</h4>
+					<h4>Outreach</h4>
 				</div>
-				<img  src="images/committee/karen.jpeg"></img>
+				<img  src="images/committee/MCSAlogo.png"></img>
 					<p>Karen Hauptfleisch <br>
 					<a href="mailto:youth@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
@@ -153,7 +155,7 @@ display: flex;
 
 			<div class="col-sm-2 news-grid">
 				<div class="news-grid-text">
-					<h4>Club Evneings</h4>
+					<h4>Club Evenings</h4>
 				</div>
 					<img  src="images/committee/odette.jpeg"></img>
 					<p>Odette Lippold<br>
@@ -167,9 +169,27 @@ display: flex;
 				<div class="news-grid-text">
 					<h4>Hiking</h4>
 				</div>
-					<img  src="images/committee/frik.jpeg"></img>
+					<img  src="images/committee/MCSAlogo.png"></img>
 					<p>Hanlie Schmidt<br>
 					<a href="mailto:hiking@mag.mcsa.org.za">Send E-mail</a></p>
+			</div>
+
+			<div class="col-sm-2 news-grid">
+				<div class="news-grid-text">
+					<h4>Youth</h4>
+				</div>
+					<img  src="images/committee/MCSAlogo.png"></img>
+					<p>Elvira Burger<br>
+					<a href="mailto:youth@mag.mcsa.org.za">Send E-mail</a></p>
+			</div>
+
+			<div class="col-sm-2 news-grid">
+				<div class="news-grid-text">
+					<h4>Admin</h4>
+				</div>
+					<img  src="images/committee/MCSAlogo.png"></img>
+					<p>Fanie De Meillon<br>
+					<a href="mailto:admin@mag.mcsa.org.za">Send E-mail</a></p>
 			</div>
 
 		</div>
@@ -179,6 +199,7 @@ display: flex;
 <div class="clearfix"></div>
 <h2>Connect with a local guide</h2>
 <p> These people goes climbing almost every weekend and will love to take you with. If they are not going out they can perhaps connect you with someone in the area. </p>
+<p>
 	<div class="clearfix"></div>
 	<div class="col-sm-4 news-grid">
 		<div class="mid-block content-block">
@@ -225,25 +246,12 @@ display: flex;
 	<div class="col-sm-4 news-grid">
 		<div class="mid-block content-block">
 			<div class="comImg flex">
-			<img  src="images/locals/sarel.jpg"></img>
+			<img  src="images/committee/MCSAlogo.png"></img>
 			</div>
 			<div class="flex">
 			<h2> Sarel Petrus</h2>
 			<p>Trad climber <br>
 			<a href="mailto:sarelpetrus@gmail.com ">sarelpetrus@gmail.com </a></p>
-			</div>
-		</div>
-	</div>
-
-	<div class="col-sm-4 news-grid">
-		<div class="mid-block content-block">
-			<div class="comImg flex">
-			<img  src="images/locals/desi.jpg"></img>
-			</div>
-			<div class="flex">
-			<h2> Desiree Dall</h2>
-			<p>Trad and Sport climber <br>
-			<a href="mailto:ddall94@gmail.com ">ddall94@gmail.com </a></p>
 			</div>
 		</div>
 	</div>

@@ -94,7 +94,7 @@
 
 				</div>
 				<a href="property.php"> <img src="images/img2.jpg" class="img-responsive bannerImage" alt="" /></a>
-				<p>Through membership fees and inheritance from club members the club ensures access to various mountain areas in South Africa through property we bought and
+				<p>Through membership fees and inheritance from club members the club ensures access to various mountain areas in South Africa through property bought and
 				through negotiating access to these areas. </p>
 				<div class="read-more blue">
 					<a href="property.php">Read More &gt;&gt;</a>
@@ -105,7 +105,7 @@
 					<h4>Conservation management</h4>
 				</div>
 				<a href="conservation.php"><img src="images/img5.jpg" class="img-responsive bannerImage" alt="" /></a>
-				<p>The club have various initiatives and support actions towards protecting the natural beauty and wilderness character of mountains and to promote their effective conservation management;</p>
+				<p>The club have various initiatives and support actions towards protecting the natural beauty and wilderness character of mountains and to promote their effective conservation management.</p>
 				<div class="read-more blue">
 					<a href="conservation.php">Read More &gt;&gt;</a>
 				</div>

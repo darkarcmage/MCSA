@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <?php $faq=true; ?>
 <html>
 <head>
@@ -55,8 +55,8 @@
 
 				<h4 class="faqQ" id="q001">How can I become a member of the MCSA Magaliesberg section?</h4>
 					  <div class="faqA"id="a001">
-					  <p> The club requires you to participate in some of the MCSA Magaliesberg events or attend the regular club evenings at the club house to meet with some of the members.
-               You will need to get two members to vouch for you and sign your application form <a href="https://drive.google.com/open?id=1L9ozZmV-z81CzYbreeLyD679ecdD8Ax-" target="_blank">Application form</a>
+					  <p> The club requires you to participate in some of the MCSA Magaliesberg events or to attend the regular club evenings at the club house to meet with some of the members.
+               You will need to get two members to vouch for your application. You can download and complete the <a href="https://drive.google.com/open?id=1L9ozZmV-z81CzYbreeLyD679ecdD8Ax-" target="_blank">Application form</a>. Then email the application form with a recent photo (head & shoulders) to admin@mag.mcsa.org.za. You can also apply online by clicking on the 'Join' button. Your application must be accommodated by a resent photo.
             </p>
 					  </div>
 
@@ -79,14 +79,19 @@
 
               <p>
                 Weeding: You are required to volunteer for weeding and work meets once a year. Conservation forms a major part of the MCSA’s responsibility towards the environment. Weeding forms a very important part of environmental management.
+
+		<div class="read-more blue">
+					<a href="conservation.php">Read More &gt;&gt;</a> 
               </p>
               </div>
 
 					  <h4  class="faqQ" id="q002">What are the costs and benefits of being a member?</h4>
 					  <div class="faqA" id="a002">
-					  <p> <a href="https://drive.google.com/open?id=1bPq0CjFP9FeSlmwQYgcJNxqA5N7i0tYj">Members fees</a> .
-					         As a member you do not only get access to the property owned by the section you joined, but to all properties owned by the entire MCSA entity. You don’t strictly have to be a member for this but if you join and participate in our activities you have access to experienced members with treasure troves of knowledge to be mined.
-					  </p>
+					  <p> 
+						As a member you do not only get access to the property owned by the section you joined, but to all properties owned by the entire MCSA entity. You don’t strictly have to be a member for this but if you join and participate in our activities you have access to experienced members with treasure troves of knowledge to be mined.
+					<p> 
+						For more 'Membership information'					  
+					</p>
             <p>
                 Some outdoor shops and climbing gyms offer discounts to MCSA members. You have to be able to show your MCSA membership card.
             </p>
@@ -139,12 +144,12 @@
                   Permit fees to the <b>Grootkloof</b> property and <b>Wilgepoort</b> property please pay to: <br/>
                   Nedbank Current Account <br/>
                   Account number 1602096171 <br/>
-                  Payment Reference: surname, word "permit" and the property name, exp. VanRiebeeck_Permit_Grootkloof . <br/>
+                  Payment Reference: surname, word "permit" and the property name, exp. VanRiebeeck_Permit_Grootkloof<br/>
                   <br/>
                   Permit fees for <b>Dome pool permit</b>, please pay to: <br/>
                   Nedbank Savings Account <br/>
                   Account number 2697033815 <br/>
-                  Payment Reference: "VanRiebeeck_Permit_Dome"<br/> .
+                  Payment Reference: "VanRiebeeck_Permit_Dome"<br/>
                 </p>
             </div>
 
