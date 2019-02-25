@@ -14,7 +14,7 @@
 		<div class="main">
 		<div class="container contentMain">
 			<div class="about">
-				<h4>Events Calendar</h4>
+				<h4>Eventss Calendar</h4>
 			</div>
 
 			<div class="col-md-12 about-grid">
